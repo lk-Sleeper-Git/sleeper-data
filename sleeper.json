@@ -4,8 +4,8 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-03T12:01:14.290Z",
-    "player_index_updated_at": "2026-09-02T16:31:55.977266+00:00"
+    "updated_at": "2026-09-03T13:00:49.425Z",
+    "player_index_updated_at": "2026-09-03T12:17:58.857700+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -960,7 +960,7 @@
           "name": "Kenneth Walker",
           "position": "RB",
           "team": "KC",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -1032,7 +1032,7 @@
           "name": "Kenneth Walker",
           "position": "RB",
           "team": "KC",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -4460,7 +4460,7 @@
           "name": "Kenneth Walker",
           "position": "RB",
           "team": "KC",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -4622,7 +4622,7 @@
           "name": "Kenneth Walker",
           "position": "RB",
           "team": "KC",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -4740,7 +4740,7 @@
             "name": "Kenneth Walker",
             "position": "RB",
             "team": "KC",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
