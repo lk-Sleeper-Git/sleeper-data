@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-04T13:01:07.825Z",
+    "updated_at": "2026-09-04T14:00:54.143Z",
     "player_index_updated_at": "2026-09-04T12:16:58.544548+00:00"
   },
   "league": {
@@ -2582,14 +2582,14 @@
           "depth_chart_position": "SWR"
         },
         {
-          "id": "0",
-          "name": "Unknown player 0",
-          "position": null,
-          "team": null,
-          "injury_status": null,
-          "status": null,
+          "id": "12487",
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR",
+          "injury_status": "Questionable",
+          "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": null
+          "depth_chart_position": "TE"
         },
         {
           "id": "7526",
@@ -7114,14 +7114,14 @@
           "depth_chart_position": "SWR"
         },
         {
-          "id": "0",
-          "name": "Unknown player 0",
-          "position": null,
-          "team": null,
-          "injury_status": null,
-          "status": null,
+          "id": "12487",
+          "name": "Terrance Ferguson",
+          "position": "TE",
+          "team": "LAR",
+          "injury_status": "Questionable",
+          "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": null
+          "depth_chart_position": "TE"
         },
         {
           "id": "7526",
