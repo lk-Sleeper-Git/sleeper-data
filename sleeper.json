@@ -4,8 +4,8 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-05T20:01:14.998Z",
-    "player_index_updated_at": "2026-09-05T12:14:56.504936+00:00"
+    "updated_at": "2026-09-06T16:00:25.924Z",
+    "player_index_updated_at": "2026-09-06T12:15:32.109507+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -62,10 +62,10 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 101,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 0,
@@ -114,24 +114,19 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_message_id": "1401444139853176832",
+    "last_message_id": "1402353752404422656",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1788492829815,
+    "last_message_time": 1788709698347,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -148,6 +143,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -2420,16 +2420,6 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "12489",
-          "name": "RJ Harvey",
-          "position": "RB",
-          "team": "DEN",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
-        },
-        {
           "id": "13305",
           "name": "Mike Washington",
           "position": "RB",
@@ -2478,6 +2468,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
+        },
+        {
+          "id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "TE"
         },
         {
           "id": "7526",
@@ -2582,11 +2582,11 @@
           "depth_chart_position": "SWR"
         },
         {
-          "id": "12487",
-          "name": "Terrance Ferguson",
+          "id": "7002",
+          "name": "Juwan Johnson",
           "position": "TE",
-          "team": "LAR",
-          "injury_status": "Questionable",
+          "team": "NO",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -3398,6 +3398,60 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1402353752295342080",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788709698321,
+      "creator_user_id": "1396527293190381568",
+      "creator": {
+        "user_id": "1396527293190381568",
+        "display_name": "ToiletBowlAllStars2026",
+        "team_name": "Toilet Bowl All-Stars"
+      },
+      "adds": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "7002",
+            "name": "Juwan Johnson",
+            "position": "TE",
+            "team": "NO",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "TE"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "12489",
+            "name": "RJ Harvey",
+            "position": "RB",
+            "team": "DEN",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1401444139735789568",
       "type": "free_agent",
@@ -7114,11 +7168,11 @@
           "depth_chart_position": "SWR"
         },
         {
-          "id": "12487",
-          "name": "Terrance Ferguson",
+          "id": "7002",
+          "name": "Juwan Johnson",
           "position": "TE",
-          "team": "LAR",
-          "injury_status": "Questionable",
+          "team": "NO",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -7186,16 +7240,6 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "12489",
-          "name": "RJ Harvey",
-          "position": "RB",
-          "team": "DEN",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
-        },
-        {
           "id": "13305",
           "name": "Mike Washington",
           "position": "RB",
@@ -7244,6 +7288,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
+        },
+        {
+          "id": "7002",
+          "name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "TE"
         },
         {
           "id": "7526",
@@ -7351,6 +7405,19 @@
         },
         {
           "player": {
+            "id": "7002",
+            "name": "Juwan Johnson",
+            "position": "TE",
+            "team": "NO",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "TE"
+          },
+          "points": 0
+        },
+        {
+          "player": {
             "id": "7526",
             "name": "Jaylen Waddle",
             "position": "WR",
@@ -7437,19 +7504,6 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
-          },
-          "points": 0
-        },
-        {
-          "player": {
-            "id": "12489",
-            "name": "RJ Harvey",
-            "position": "RB",
-            "team": "DEN",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "RB"
           },
           "points": 0
         },
