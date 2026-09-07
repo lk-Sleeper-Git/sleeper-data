@@ -4,8 +4,8 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-07T12:01:02.226Z",
-    "player_index_updated_at": "2026-09-06T12:15:32.109507+00:00"
+    "updated_at": "2026-09-07T13:01:00.700Z",
+    "player_index_updated_at": "2026-09-07T12:17:18.747516+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -3219,7 +3219,7 @@
           "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "SWR"
         },
         {
           "id": "2449",
@@ -8564,7 +8564,7 @@
           "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "SWR"
         },
         {
           "id": "2449",
@@ -8803,7 +8803,7 @@
             "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
-            "depth_chart_position": "LWR"
+            "depth_chart_position": "SWR"
           },
           "points": 0
         },
