@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-07T18:01:15.704Z",
+    "updated_at": "2026-09-07T19:01:22.819Z",
     "player_index_updated_at": "2026-09-07T12:17:18.747516+00:00"
   },
   "league": {
@@ -114,19 +114,24 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_message_id": "1402353752404422656",
+    "last_message_id": "1402751093519204352",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
+    "draft_id": "1396978277846953984",
     "last_message_text_map": null,
-    "last_message_time": 1788709698347,
+    "last_message_time": 1788804431851,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -143,11 +148,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -2390,6 +2390,16 @@
       },
       "players": [
         {
+          "id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
           "id": "11631",
           "name": "Brian Thomas",
           "position": "WR",
@@ -2398,16 +2408,6 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
-        },
-        {
-          "id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
         },
         {
           "id": "12487",
@@ -3398,6 +3398,60 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1402751093410172928",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788804431825,
+      "creator_user_id": "1396527293190381568",
+      "creator": {
+        "user_id": "1396527293190381568",
+        "display_name": "ToiletBowlAllStars2026",
+        "team_name": "Toilet Bowl All-Stars"
+      },
+      "adds": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "11576",
+            "name": "Braelon Allen",
+            "position": "RB",
+            "team": "NYJ",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "12469",
+            "name": "Dylan Sampson",
+            "position": "RB",
+            "team": "CLE",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1402353752295342080",
       "type": "free_agent",
@@ -7210,6 +7264,16 @@
       ],
       "players": [
         {
+          "id": "11576",
+          "name": "Braelon Allen",
+          "position": "RB",
+          "team": "NYJ",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
           "id": "11631",
           "name": "Brian Thomas",
           "position": "WR",
@@ -7218,16 +7282,6 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
-        },
-        {
-          "id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
         },
         {
           "id": "12487",
@@ -7470,6 +7524,19 @@
         },
         {
           "player": {
+            "id": "11576",
+            "name": "Braelon Allen",
+            "position": "RB",
+            "team": "NYJ",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          },
+          "points": 0
+        },
+        {
+          "player": {
             "id": "11631",
             "name": "Brian Thomas",
             "position": "WR",
@@ -7478,19 +7545,6 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
-          },
-          "points": 0
-        },
-        {
-          "player": {
-            "id": "12469",
-            "name": "Dylan Sampson",
-            "position": "RB",
-            "team": "CLE",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "RB"
           },
           "points": 0
         },
