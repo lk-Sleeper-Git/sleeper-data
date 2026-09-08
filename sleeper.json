@@ -4,8 +4,8 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-08T12:01:14.476Z",
-    "player_index_updated_at": "2026-09-07T12:17:18.747516+00:00"
+    "updated_at": "2026-09-08T13:01:42.284Z",
+    "player_index_updated_at": "2026-09-08T12:17:41.943772+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -384,7 +384,7 @@
           "injury_status": "IR",
           "status": "Inactive",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "4881",
@@ -588,7 +588,7 @@
           "injury_status": "IR",
           "status": "Inactive",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         }
       ],
       "settings": {
@@ -659,7 +659,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "13286",
@@ -1197,7 +1197,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "8148",
@@ -1309,7 +1309,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "12517",
@@ -1481,7 +1481,7 @@
           "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "9500",
@@ -1553,7 +1553,7 @@
           "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "8146",
@@ -2691,7 +2691,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "3451",
@@ -2833,7 +2833,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "11604",
@@ -3856,7 +3856,7 @@
           "injury_status": "IR",
           "status": "Inactive",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "4881",
@@ -4138,7 +4138,7 @@
             "injury_status": "IR",
             "status": "Inactive",
             "practice_participation": null,
-            "depth_chart_position": "RWR"
+            "depth_chart_position": "LWR"
           },
           "points": 0
         },
@@ -4308,7 +4308,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "13286",
@@ -4541,7 +4541,7 @@
             "injury_status": null,
             "status": "Active",
             "practice_participation": null,
-            "depth_chart_position": "LWR"
+            "depth_chart_position": "RWR"
           },
           "points": 0
         },
@@ -5074,7 +5074,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "12517",
@@ -5196,7 +5196,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "8148",
@@ -5308,7 +5308,7 @@
             "injury_status": null,
             "status": "Active",
             "practice_participation": null,
-            "depth_chart_position": "LWR"
+            "depth_chart_position": "RWR"
           },
           "points": 0
         },
@@ -5493,7 +5493,7 @@
           "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "8146",
@@ -5655,7 +5655,7 @@
           "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "9500",
@@ -5776,7 +5776,7 @@
             "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
-            "depth_chart_position": "LWR"
+            "depth_chart_position": "RWR"
           },
           "points": 0
         },
@@ -7648,7 +7648,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "11604",
@@ -7740,7 +7740,7 @@
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "3451",
@@ -7856,7 +7856,7 @@
             "injury_status": null,
             "status": "Active",
             "practice_participation": null,
-            "depth_chart_position": "RWR"
+            "depth_chart_position": "LWR"
           },
           "points": 0
         },
