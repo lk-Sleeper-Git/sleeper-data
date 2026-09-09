@@ -4,8 +4,8 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-09T12:00:25.489Z",
-    "player_index_updated_at": "2026-09-08T12:17:41.943772+00:00"
+    "updated_at": "2026-09-09T13:01:03.400Z",
+    "player_index_updated_at": "2026-09-09T12:17:04.528678+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -1478,7 +1478,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -1550,7 +1550,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -1926,7 +1926,7 @@
           "name": "Mike Evans",
           "position": "WR",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -2088,7 +2088,7 @@
           "name": "Mike Evans",
           "position": "WR",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -2170,7 +2170,7 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -2414,7 +2414,7 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "team": "LAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -2962,7 +2962,7 @@
           "name": "Christian McCaffrey",
           "position": "RB",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -3054,7 +3054,7 @@
           "name": "Christian McCaffrey",
           "position": "RB",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -3216,7 +3216,7 @@
           "name": "De'Zhaun Stribling",
           "position": "WR",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -5490,7 +5490,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -5652,7 +5652,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -5773,7 +5773,7 @@
             "name": "Puka Nacua",
             "position": "WR",
             "team": "LAR",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RWR"
@@ -6378,7 +6378,7 @@
           "name": "Mike Evans",
           "position": "WR",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -6450,7 +6450,7 @@
           "name": "Mike Evans",
           "position": "WR",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -6553,7 +6553,7 @@
             "name": "Mike Evans",
             "position": "WR",
             "team": "SF",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
@@ -6869,7 +6869,7 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -7125,7 +7125,7 @@
             "name": "TreVeyon Henderson",
             "position": "RB",
             "team": "NE",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -7288,7 +7288,7 @@
           "name": "Terrance Ferguson",
           "position": "TE",
           "team": "LAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -7554,7 +7554,7 @@
             "name": "Terrance Ferguson",
             "position": "TE",
             "team": "LAR",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
@@ -8044,7 +8044,7 @@
           "name": "Christian McCaffrey",
           "position": "RB",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -8186,7 +8186,7 @@
           "name": "Christian McCaffrey",
           "position": "RB",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -8282,7 +8282,7 @@
             "name": "Christian McCaffrey",
             "position": "RB",
             "team": "SF",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -8615,7 +8615,7 @@
           "name": "De'Zhaun Stribling",
           "position": "WR",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -8854,7 +8854,7 @@
             "name": "De'Zhaun Stribling",
             "position": "WR",
             "team": "SF",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
