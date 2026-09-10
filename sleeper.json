@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-10T02:01:03.729Z",
+    "updated_at": "2026-09-10T03:01:02.000Z",
     "player_index_updated_at": "2026-09-09T12:17:04.528678+00:00"
   },
   "league": {
@@ -804,21 +804,21 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "4217",
-          "name": "George Kittle",
-          "position": "TE",
-          "team": "SF",
-          "injury_status": "Questionable",
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "TE"
-        },
-        {
           "id": "1466",
           "name": "Travis Kelce",
           "position": "TE",
           "team": "KC",
           "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "TE"
+        },
+        {
+          "id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -4219,7 +4219,7 @@
         "display_name": "SkylarXROI",
         "team_name": "Out of Budget"
       },
-      "points": 4.2,
+      "points": 7.8,
       "custom_points": null,
       "starters": [
         {
@@ -4273,21 +4273,21 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "4217",
-          "name": "George Kittle",
-          "position": "TE",
-          "team": "SF",
-          "injury_status": "Questionable",
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "TE"
-        },
-        {
           "id": "1466",
           "name": "Travis Kelce",
           "position": "TE",
           "team": "KC",
           "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "TE"
+        },
+        {
+          "id": "4217",
+          "name": "George Kittle",
+          "position": "TE",
+          "team": "SF",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -4610,7 +4610,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 4.2
+          "points": 7.8
         },
         {
           "player": {
@@ -5506,7 +5506,7 @@
         "display_name": "kbreez",
         "team_name": "Kbreez"
       },
-      "points": 12.76,
+      "points": 12.68,
       "custom_points": null,
       "starters": [
         {
@@ -5884,7 +5884,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 12.76
+          "points": 12.68
         },
         {
           "player": {
@@ -5935,7 +5935,7 @@
         "display_name": "1terrainTristan",
         "team_name": "Dynasty Dawgs"
       },
-      "points": 3.9,
+      "points": 12.5,
       "custom_points": null,
       "starters": [
         {
@@ -6248,7 +6248,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 3.9
+          "points": 12.5
         },
         {
           "player": {
@@ -6274,7 +6274,7 @@
             "practice_participation": null,
             "depth_chart_position": "RWR"
           },
-          "points": 0
+          "points": 1.4
         },
         {
           "player": {
@@ -6793,7 +6793,7 @@
         "display_name": "bamirzada",
         "team_name": "WinnaChickenDinna"
       },
-      "points": 10.3,
+      "points": 26.2,
       "custom_points": null,
       "starters": [
         {
@@ -7132,7 +7132,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 10.3
+          "points": 26.2
         },
         {
           "player": {
@@ -7651,7 +7651,7 @@
         "display_name": "jduran2089",
         "team_name": null
       },
-      "points": 4,
+      "points": 8,
       "custom_points": null,
       "starters": [
         {
@@ -8068,7 +8068,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 4
+          "points": 8
         }
       ]
     },
@@ -8080,7 +8080,7 @@
         "display_name": "ninathedemolisher",
         "team_name": "Nina the DEMOLISHER"
       },
-      "points": 12,
+      "points": 10,
       "custom_points": null,
       "starters": [
         {
@@ -8328,7 +8328,7 @@
             "practice_participation": null,
             "depth_chart_position": "K"
           },
-          "points": 0
+          "points": 4
         },
         {
           "player": {
@@ -8497,7 +8497,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 12
+          "points": 6
         }
       ]
     },
