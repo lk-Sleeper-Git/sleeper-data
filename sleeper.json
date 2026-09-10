@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-10T15:01:13.187Z",
+    "updated_at": "2026-09-10T16:01:37.109Z",
     "player_index_updated_at": "2026-09-10T12:17:08.913484+00:00"
   },
   "league": {
@@ -824,20 +824,20 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "1466",
-          "name": "Travis Kelce",
+          "id": "4217",
+          "name": "George Kittle",
           "position": "TE",
-          "team": "KC",
+          "team": "SF",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
         },
         {
-          "id": "4217",
-          "name": "George Kittle",
+          "id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "SF",
+          "team": "KC",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -4459,20 +4459,20 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "1466",
-          "name": "Travis Kelce",
+          "id": "4217",
+          "name": "George Kittle",
           "position": "TE",
-          "team": "KC",
+          "team": "SF",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
         },
         {
-          "id": "4217",
-          "name": "George Kittle",
+          "id": "1466",
+          "name": "Travis Kelce",
           "position": "TE",
-          "team": "SF",
+          "team": "KC",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
