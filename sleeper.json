@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-09T23:01:09.292Z",
+    "updated_at": "2026-09-10T00:01:08.708Z",
     "player_index_updated_at": "2026-09-09T12:17:04.528678+00:00"
   },
   "league": {
@@ -62,8 +62,10 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "shard": 101,
+    "sport": "nfl",
+    "season_type": "regular",
     "season": "2026",
+    "shard": 101,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 0,
@@ -112,21 +114,22 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1402751093519204352",
+    "last_message_id": "1403562904812355584",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
+    "draft_id": "1396978277846953984",
     "last_message_text_map": null,
-    "last_message_time": 1788804431851,
+    "last_message_time": 1788997982746,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -143,9 +146,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -2012,10 +2012,10 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "DET",
-          "name": "Detroit Lions",
+          "id": "KC",
+          "name": "Kansas City Chiefs",
           "position": "DEF",
-          "team": "DET",
+          "team": "KC",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -2084,14 +2084,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "2216",
-          "name": "Mike Evans",
+          "id": "10222",
+          "name": "Jayden Reed",
           "position": "WR",
-          "team": "SF",
+          "team": "GB",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "SWR"
         },
         {
           "id": "11533",
@@ -2104,10 +2104,10 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "DET",
-          "name": "Detroit Lions",
+          "id": "KC",
+          "name": "Kansas City Chiefs",
           "position": "DEF",
-          "team": "DET",
+          "team": "KC",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -3398,6 +3398,60 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1403562904711602176",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788997982722,
+      "creator_user_id": "1259252607344459776",
+      "creator": {
+        "user_id": "1259252607344459776",
+        "display_name": "Axmen",
+        "team_name": "Full Axeleration"
+      },
+      "adds": [
+        {
+          "roster_id": 7,
+          "manager": {
+            "user_id": "1259252607344459776",
+            "display_name": "Axmen",
+            "team_name": "Full Axeleration"
+          },
+          "player": {
+            "id": "KC",
+            "name": "Kansas City Chiefs",
+            "position": "DEF",
+            "team": "KC",
+            "injury_status": null,
+            "status": null,
+            "practice_participation": null,
+            "depth_chart_position": null
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 7,
+          "manager": {
+            "user_id": "1259252607344459776",
+            "display_name": "Axmen",
+            "team_name": "Full Axeleration"
+          },
+          "player": {
+            "id": "DET",
+            "name": "Detroit Lions",
+            "position": "DEF",
+            "team": "DET",
+            "injury_status": null,
+            "status": null,
+            "practice_participation": null,
+            "depth_chart_position": null
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1402751093410172928",
       "type": "free_agent",
@@ -6374,14 +6428,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "2216",
-          "name": "Mike Evans",
+          "id": "10222",
+          "name": "Jayden Reed",
           "position": "WR",
-          "team": "SF",
+          "team": "GB",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "SWR"
         },
         {
           "id": "11533",
@@ -6394,10 +6448,10 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "DET",
-          "name": "Detroit Lions",
+          "id": "KC",
+          "name": "Kansas City Chiefs",
           "position": "DEF",
-          "team": "DET",
+          "team": "KC",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -6536,10 +6590,10 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "DET",
-          "name": "Detroit Lions",
+          "id": "KC",
+          "name": "Kansas City Chiefs",
           "position": "DEF",
-          "team": "DET",
+          "team": "KC",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -6718,10 +6772,10 @@
         },
         {
           "player": {
-            "id": "DET",
-            "name": "Detroit Lions",
+            "id": "KC",
+            "name": "Kansas City Chiefs",
             "position": "DEF",
-            "team": "DET",
+            "team": "KC",
             "injury_status": null,
             "status": null,
             "practice_participation": null,
