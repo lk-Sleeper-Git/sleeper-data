@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-10T14:01:07.912Z",
+    "updated_at": "2026-09-10T15:01:13.187Z",
     "player_index_updated_at": "2026-09-10T12:17:08.913484+00:00"
   },
   "league": {
@@ -61,10 +61,11 @@
       "daily_waivers_last_ran": 31
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
+    "company_id": null,
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
-    "company_id": null,
+    "shard": 101,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 0,
@@ -113,15 +114,14 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "shard": 101,
-    "last_message_id": "1403760748416544768",
-    "last_author_avatar": "6332ba6ec0d3bb688ec30fd1648bb98a",
-    "last_author_display_name": "OliMaitland",
-    "last_author_id": "1254480073906454528",
+    "last_message_id": "1403785014742659072",
+    "last_author_avatar": "d22e52781a5d7a94bcbf2aa70e748382",
+    "last_author_display_name": "supplementkings",
+    "last_author_id": "1397788309110931456",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789045152338,
+    "last_message_time": 1789050937881,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1396978277846953984",
