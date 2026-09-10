@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-10T11:01:08.330Z",
+    "updated_at": "2026-09-10T12:01:04.800Z",
     "player_index_updated_at": "2026-09-09T12:17:04.528678+00:00"
   },
   "league": {
@@ -62,10 +62,10 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 101,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 0,
@@ -114,14 +114,14 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_message_id": "1403614899308863488",
+    "last_message_id": "1403740134880382976",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789010379201,
+    "last_message_time": 1789040237687,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1396978277846953984",
@@ -131,6 +131,7 @@
     "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -147,7 +148,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -387,6 +387,16 @@
           "depth_chart_position": "LWR"
         },
         {
+          "id": "13311",
+          "name": "Chris Bell",
+          "position": "WR",
+          "team": "MIA",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "LWR"
+        },
+        {
           "id": "4881",
           "name": "Lamar Jackson",
           "position": "QB",
@@ -437,16 +447,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "6804",
-          "name": "Jordan Love",
-          "position": "QB",
-          "team": "GB",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "QB"
-        },
-        {
           "id": "6813",
           "name": "Jonathan Taylor",
           "position": "RB",
@@ -475,6 +475,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
+        },
+        {
+          "id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU",
+          "injury_status": "IR",
+          "status": "Inactive",
+          "practice_participation": null,
+          "depth_chart_position": "SWR"
         },
         {
           "id": "HOU",
@@ -589,6 +599,16 @@
           "status": "Inactive",
           "practice_participation": null,
           "depth_chart_position": "LWR"
+        },
+        {
+          "id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU",
+          "injury_status": "IR",
+          "status": "Inactive",
+          "practice_participation": null,
+          "depth_chart_position": "SWR"
         }
       ],
       "settings": {
@@ -3399,6 +3419,95 @@
   ],
   "transactions": [
     {
+      "transaction_id": "1403740134775500800",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789040237662,
+      "creator_user_id": "1396976615241605120",
+      "creator": {
+        "user_id": "1396976615241605120",
+        "display_name": "xtremeroi",
+        "team_name": "Vibe Code Junkies"
+      },
+      "adds": [
+        {
+          "roster_id": 1,
+          "manager": {
+            "user_id": "1396976615241605120",
+            "display_name": "xtremeroi",
+            "team_name": "Vibe Code Junkies"
+          },
+          "player": {
+            "id": "13311",
+            "name": "Chris Bell",
+            "position": "WR",
+            "team": "MIA",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "LWR"
+          }
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1403739253640290304",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789040027584,
+      "creator_user_id": "1396976615241605120",
+      "creator": {
+        "user_id": "1396976615241605120",
+        "display_name": "xtremeroi",
+        "team_name": "Vibe Code Junkies"
+      },
+      "adds": [
+        {
+          "roster_id": 1,
+          "manager": {
+            "user_id": "1396976615241605120",
+            "display_name": "xtremeroi",
+            "team_name": "Vibe Code Junkies"
+          },
+          "player": {
+            "id": "9502",
+            "name": "Tank Dell",
+            "position": "WR",
+            "team": "HOU",
+            "injury_status": "IR",
+            "status": "Inactive",
+            "practice_participation": null,
+            "depth_chart_position": "SWR"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 1,
+          "manager": {
+            "user_id": "1396976615241605120",
+            "display_name": "xtremeroi",
+            "team_name": "Vibe Code Junkies"
+          },
+          "player": {
+            "id": "6804",
+            "name": "Jordan Love",
+            "position": "QB",
+            "team": "GB",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "QB"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1403614899212439552",
       "type": "free_agent",
       "status": "complete",
@@ -3967,6 +4076,16 @@
           "depth_chart_position": "LWR"
         },
         {
+          "id": "13311",
+          "name": "Chris Bell",
+          "position": "WR",
+          "team": "MIA",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "LWR"
+        },
+        {
           "id": "4881",
           "name": "Lamar Jackson",
           "position": "QB",
@@ -4017,16 +4136,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "6804",
-          "name": "Jordan Love",
-          "position": "QB",
-          "team": "GB",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "QB"
-        },
-        {
           "id": "6813",
           "name": "Jonathan Taylor",
           "position": "RB",
@@ -4055,6 +4164,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
+        },
+        {
+          "id": "9502",
+          "name": "Tank Dell",
+          "position": "WR",
+          "team": "HOU",
+          "injury_status": "IR",
+          "status": "Inactive",
+          "practice_participation": null,
+          "depth_chart_position": "SWR"
         },
         {
           "id": "HOU",
@@ -4135,19 +4254,6 @@
         },
         {
           "player": {
-            "id": "6804",
-            "name": "Jordan Love",
-            "position": "QB",
-            "team": "GB",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "QB"
-          },
-          "points": 0
-        },
-        {
-          "player": {
             "id": "6813",
             "name": "Jonathan Taylor",
             "position": "RB",
@@ -4182,6 +4288,19 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
+          },
+          "points": 0
+        },
+        {
+          "player": {
+            "id": "9502",
+            "name": "Tank Dell",
+            "position": "WR",
+            "team": "HOU",
+            "injury_status": "IR",
+            "status": "Inactive",
+            "practice_participation": null,
+            "depth_chart_position": "SWR"
           },
           "points": 0
         },
@@ -4245,6 +4364,19 @@
             "team": "NO",
             "injury_status": "IR",
             "status": "Inactive",
+            "practice_participation": null,
+            "depth_chart_position": "LWR"
+          },
+          "points": 0
+        },
+        {
+          "player": {
+            "id": "13311",
+            "name": "Chris Bell",
+            "position": "WR",
+            "team": "MIA",
+            "injury_status": null,
+            "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
