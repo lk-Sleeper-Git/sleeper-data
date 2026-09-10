@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-10T03:01:02.000Z",
+    "updated_at": "2026-09-10T04:00:59.202Z",
     "player_index_updated_at": "2026-09-09T12:17:04.528678+00:00"
   },
   "league": {
@@ -114,22 +114,23 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_message_id": "1403562904812355584",
+    "last_message_id": "1403614899308863488",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "draft_id": "1396978277846953984",
     "last_message_text_map": null,
-    "last_message_time": 1788997982746,
+    "last_message_time": 1789010379201,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -146,7 +147,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
@@ -2064,14 +2064,14 @@
           "depth_chart_position": "SWR"
         },
         {
-          "id": "5927",
-          "name": "Terry McLaurin",
+          "id": "10222",
+          "name": "Jayden Reed",
           "position": "WR",
-          "team": "WAS",
+          "team": "GB",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "SWR"
         },
         {
           "id": "12518",
@@ -2084,14 +2084,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "10222",
-          "name": "Jayden Reed",
+          "id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "GB",
+          "team": "SF",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "11533",
@@ -2674,16 +2674,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "12493",
-          "name": "Oronde Gadsden",
-          "position": "TE",
-          "team": "LAC",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "TE"
-        },
-        {
           "id": "2133",
           "name": "Davante Adams",
           "position": "WR",
@@ -2774,6 +2764,16 @@
           "depth_chart_position": "RB"
         },
         {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "TE"
+        },
+        {
           "id": "SEA",
           "name": "Seattle Seahawks",
           "position": "DEF",
@@ -2836,8 +2836,8 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "11604",
-          "name": "Brock Bowers",
+          "id": "9482",
+          "name": "Michael Mayer",
           "position": "TE",
           "team": "LV",
           "injury_status": null,
@@ -3398,6 +3398,60 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1403614899212439552",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789010379177,
+      "creator_user_id": "1252727905692168192",
+      "creator": {
+        "user_id": "1252727905692168192",
+        "display_name": "jduran2089",
+        "team_name": null
+      },
+      "adds": [
+        {
+          "roster_id": 10,
+          "manager": {
+            "user_id": "1252727905692168192",
+            "display_name": "jduran2089",
+            "team_name": null
+          },
+          "player": {
+            "id": "9482",
+            "name": "Michael Mayer",
+            "position": "TE",
+            "team": "LV",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "TE"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 10,
+          "manager": {
+            "user_id": "1252727905692168192",
+            "display_name": "jduran2089",
+            "team_name": null
+          },
+          "player": {
+            "id": "12493",
+            "name": "Oronde Gadsden",
+            "position": "TE",
+            "team": "LAC",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "TE"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1403562904711602176",
       "type": "free_agent",
@@ -5506,7 +5560,7 @@
         "display_name": "kbreez",
         "team_name": "Kbreez"
       },
-      "points": 12.68,
+      "points": 14.82,
       "custom_points": null,
       "starters": [
         {
@@ -5884,7 +5938,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 12.68
+          "points": 14.82
         },
         {
           "player": {
@@ -5935,7 +5989,7 @@
         "display_name": "1terrainTristan",
         "team_name": "Dynasty Dawgs"
       },
-      "points": 12.5,
+      "points": 14.5,
       "custom_points": null,
       "starters": [
         {
@@ -6248,7 +6302,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 12.5
+          "points": 14.5
         },
         {
           "player": {
@@ -6408,14 +6462,14 @@
           "depth_chart_position": "SWR"
         },
         {
-          "id": "5927",
-          "name": "Terry McLaurin",
+          "id": "10222",
+          "name": "Jayden Reed",
           "position": "WR",
-          "team": "WAS",
+          "team": "GB",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "SWR"
         },
         {
           "id": "12518",
@@ -6428,14 +6482,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "10222",
-          "name": "Jayden Reed",
+          "id": "2216",
+          "name": "Mike Evans",
           "position": "WR",
-          "team": "GB",
+          "team": "SF",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "11533",
@@ -7651,7 +7705,7 @@
         "display_name": "jduran2089",
         "team_name": null
       },
-      "points": 8,
+      "points": 13,
       "custom_points": null,
       "starters": [
         {
@@ -7705,8 +7759,8 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "11604",
-          "name": "Brock Bowers",
+          "id": "9482",
+          "name": "Michael Mayer",
           "position": "TE",
           "team": "LV",
           "injury_status": null,
@@ -7775,16 +7829,6 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
-        },
-        {
-          "id": "12493",
-          "name": "Oronde Gadsden",
-          "position": "TE",
-          "team": "LAC",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "TE"
         },
         {
           "id": "2133",
@@ -7875,6 +7919,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "position": "TE",
+          "team": "LV",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "TE"
         },
         {
           "id": "SEA",
@@ -8007,6 +8061,19 @@
         },
         {
           "player": {
+            "id": "9482",
+            "name": "Michael Mayer",
+            "position": "TE",
+            "team": "LV",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "TE"
+          },
+          "points": 0
+        },
+        {
+          "player": {
             "id": "11604",
             "name": "Brock Bowers",
             "position": "TE",
@@ -8046,19 +8113,6 @@
         },
         {
           "player": {
-            "id": "12493",
-            "name": "Oronde Gadsden",
-            "position": "TE",
-            "team": "LAC",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "TE"
-          },
-          "points": 0
-        },
-        {
-          "player": {
             "id": "SEA",
             "name": "Seattle Seahawks",
             "position": "DEF",
@@ -8068,7 +8122,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 8
+          "points": 13
         }
       ]
     },
@@ -8080,7 +8134,7 @@
         "display_name": "ninathedemolisher",
         "team_name": "Nina the DEMOLISHER"
       },
-      "points": 10,
+      "points": 12.6,
       "custom_points": null,
       "starters": [
         {
@@ -8328,7 +8382,7 @@
             "practice_participation": null,
             "depth_chart_position": "K"
           },
-          "points": 4
+          "points": 6.6
         },
         {
           "player": {
