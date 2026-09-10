@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-10T00:01:08.708Z",
+    "updated_at": "2026-09-10T01:00:59.601Z",
     "player_index_updated_at": "2026-09-09T12:17:04.528678+00:00"
   },
   "league": {
@@ -3767,7 +3767,7 @@
         "display_name": "xtremeroi",
         "team_name": "Vibe Code Junkies"
       },
-      "points": 0,
+      "points": 1.7,
       "custom_points": null,
       "starters": [
         {
@@ -4064,7 +4064,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 0
+          "points": 1.7
         },
         {
           "player": {
@@ -4219,7 +4219,7 @@
         "display_name": "SkylarXROI",
         "team_name": "Out of Budget"
       },
-      "points": 0,
+      "points": 3.4,
       "custom_points": null,
       "starters": [
         {
@@ -4610,7 +4610,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 3.4
         },
         {
           "player": {
@@ -5506,7 +5506,7 @@
         "display_name": "kbreez",
         "team_name": "Kbreez"
       },
-      "points": 0,
+      "points": 2.04,
       "custom_points": null,
       "starters": [
         {
@@ -5884,7 +5884,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 0
+          "points": 2.04
         },
         {
           "player": {
@@ -5935,7 +5935,7 @@
         "display_name": "1terrainTristan",
         "team_name": "Dynasty Dawgs"
       },
-      "points": 0,
+      "points": 1.2,
       "custom_points": null,
       "starters": [
         {
@@ -6248,7 +6248,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 1.2
         },
         {
           "player": {
@@ -6793,7 +6793,7 @@
         "display_name": "bamirzada",
         "team_name": "WinnaChickenDinna"
       },
-      "points": 0,
+      "points": 4.1,
       "custom_points": null,
       "starters": [
         {
@@ -7132,7 +7132,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 0
+          "points": 4.1
         },
         {
           "player": {
@@ -7651,7 +7651,7 @@
         "display_name": "jduran2089",
         "team_name": null
       },
-      "points": 0,
+      "points": 10,
       "custom_points": null,
       "starters": [
         {
@@ -8068,7 +8068,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 0
+          "points": 10
         }
       ]
     },
@@ -8080,7 +8080,7 @@
         "display_name": "ninathedemolisher",
         "team_name": "Nina the DEMOLISHER"
       },
-      "points": 0,
+      "points": 11,
       "custom_points": null,
       "starters": [
         {
@@ -8497,7 +8497,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 0
+          "points": 11
         }
       ]
     },
