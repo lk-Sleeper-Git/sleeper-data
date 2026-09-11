@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-11T20:00:45.611Z",
+    "updated_at": "2026-09-11T21:00:39.397Z",
     "player_index_updated_at": "2026-09-11T12:17:29.558469+00:00"
   },
   "league": {
@@ -113,26 +113,21 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "shard": 101,
     "sport": "nfl",
-    "last_message_id": "1404171794629275648",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "shard": 101,
+    "last_message_id": "1404234690885324800",
+    "draft_id": "1396978277846953984",
+    "last_author_avatar": "d22e52781a5d7a94bcbf2aa70e748382",
+    "last_author_display_name": "supplementkings",
+    "last_author_id": "1397788309110931456",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789143153391,
+    "last_message_time": 1789158149028,
     "last_pinned_message_id": null,
-    "draft_id": "1396978277846953984",
     "last_read_id": null,
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -149,6 +144,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -2411,14 +2411,14 @@
       },
       "players": [
         {
-          "id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ",
+          "id": "10213",
+          "name": "Tre Tucker",
+          "position": "WR",
+          "team": "LV",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "RB"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "11631",
@@ -2431,14 +2431,14 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "12487",
-          "name": "Terrance Ferguson",
-          "position": "TE",
-          "team": "LAR",
-          "injury_status": null,
-          "status": "Active",
+          "id": "13302",
+          "name": "Adam Randall",
+          "position": "RB",
+          "team": "BAL",
+          "injury_status": "IR",
+          "status": "Inactive",
           "practice_participation": null,
-          "depth_chart_position": "TE"
+          "depth_chart_position": "RB"
         },
         {
           "id": "13305",
@@ -2515,6 +2515,16 @@
           "name": "Chase Brown",
           "position": "RB",
           "team": "CIN",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "9225",
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -2643,7 +2653,18 @@
           "depth_chart_position": null
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "id": "13302",
+          "name": "Adam Randall",
+          "position": "RB",
+          "team": "BAL",
+          "injury_status": "IR",
+          "status": "Inactive",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        }
+      ],
       "settings": {
         "fpts": 0,
         "fpts_decimal": 0,
@@ -3419,6 +3440,149 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1404232837158170624",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789157707064,
+      "creator_user_id": "1396527293190381568",
+      "creator": {
+        "user_id": "1396527293190381568",
+        "display_name": "ToiletBowlAllStars2026",
+        "team_name": "Toilet Bowl All-Stars"
+      },
+      "adds": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "10213",
+            "name": "Tre Tucker",
+            "position": "WR",
+            "team": "LV",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "LWR"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "11576",
+            "name": "Braelon Allen",
+            "position": "RB",
+            "team": "NYJ",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1404230955010449408",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789157258325,
+      "creator_user_id": "1396527293190381568",
+      "creator": {
+        "user_id": "1396527293190381568",
+        "display_name": "ToiletBowlAllStars2026",
+        "team_name": "Toilet Bowl All-Stars"
+      },
+      "adds": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "9225",
+            "name": "Tank Bigsby",
+            "position": "RB",
+            "team": "PHI",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1404230763469111296",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789157212658,
+      "creator_user_id": "1396527293190381568",
+      "creator": {
+        "user_id": "1396527293190381568",
+        "display_name": "ToiletBowlAllStars2026",
+        "team_name": "Toilet Bowl All-Stars"
+      },
+      "adds": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "13302",
+            "name": "Adam Randall",
+            "position": "RB",
+            "team": "BAL",
+            "injury_status": "IR",
+            "status": "Inactive",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "12487",
+            "name": "Terrance Ferguson",
+            "position": "TE",
+            "team": "LAR",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "TE"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1404171794536996864",
       "type": "free_agent",
@@ -7559,14 +7723,14 @@
       ],
       "players": [
         {
-          "id": "11576",
-          "name": "Braelon Allen",
-          "position": "RB",
-          "team": "NYJ",
+          "id": "10213",
+          "name": "Tre Tucker",
+          "position": "WR",
+          "team": "LV",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "RB"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "11631",
@@ -7587,6 +7751,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
+        },
+        {
+          "id": "13302",
+          "name": "Adam Randall",
+          "position": "RB",
+          "team": "BAL",
+          "injury_status": "IR",
+          "status": "Inactive",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
         },
         {
           "id": "13305",
@@ -7663,6 +7837,16 @@
           "name": "Chase Brown",
           "position": "RB",
           "team": "CIN",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "9225",
+          "name": "Tank Bigsby",
+          "position": "RB",
+          "team": "PHI",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -7793,6 +7977,19 @@
         },
         {
           "player": {
+            "id": "9225",
+            "name": "Tank Bigsby",
+            "position": "RB",
+            "team": "PHI",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          },
+          "points": 0
+        },
+        {
+          "player": {
             "id": "9509",
             "name": "Bijan Robinson",
             "position": "RB",
@@ -7819,14 +8016,14 @@
         },
         {
           "player": {
-            "id": "11576",
-            "name": "Braelon Allen",
-            "position": "RB",
-            "team": "NYJ",
+            "id": "10213",
+            "name": "Tre Tucker",
+            "position": "WR",
+            "team": "LV",
             "injury_status": null,
             "status": "Active",
             "practice_participation": null,
-            "depth_chart_position": "RB"
+            "depth_chart_position": "LWR"
           },
           "points": 0
         },
@@ -7853,6 +8050,19 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
+          },
+          "points": 0
+        },
+        {
+          "player": {
+            "id": "13302",
+            "name": "Adam Randall",
+            "position": "RB",
+            "team": "BAL",
+            "injury_status": "IR",
+            "status": "Inactive",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
           },
           "points": 0
         },
