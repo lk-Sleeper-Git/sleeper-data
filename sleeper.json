@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-11T16:00:59.948Z",
+    "updated_at": "2026-09-11T17:00:56.477Z",
     "player_index_updated_at": "2026-09-11T12:17:29.558469+00:00"
   },
   "league": {
@@ -62,11 +62,6 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "last_message_id": "1403943123419189289",
-    "sport": "nfl",
-    "shard": 101,
-    "season": "2026",
-    "season_type": "regular",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -116,16 +111,21 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_author_avatar": "a73d87070fa2b8761c12898a4c69e505",
-    "last_author_display_name": "RandyXROI",
-    "last_author_id": "1396976615241605120",
-    "last_author_is_bot": false,
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 101,
+    "sport": "nfl",
+    "last_message_id": "1404171794629275648",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789088633927,
+    "last_message_time": 1789143153391,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1396978277846953984",
+    "last_read_id": null,
     "league_id": "1396978277226184704",
     "previous_league_id": null,
     "bracket_id": null,
@@ -2461,16 +2461,6 @@
           "depth_chart_position": "QB"
         },
         {
-          "id": "6650",
-          "name": "Chase McLaughlin",
-          "position": "K",
-          "team": "TB",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "K"
-        },
-        {
           "id": "6797",
           "name": "Justin Herbert",
           "position": "QB",
@@ -2509,6 +2499,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
+        },
+        {
+          "id": "7839",
+          "name": "Evan McPherson",
+          "position": "K",
+          "team": "CIN",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "K"
         },
         {
           "id": "9224",
@@ -2623,10 +2623,10 @@
           "depth_chart_position": "RWR"
         },
         {
-          "id": "6650",
-          "name": "Chase McLaughlin",
+          "id": "7839",
+          "name": "Evan McPherson",
           "position": "K",
-          "team": "TB",
+          "team": "CIN",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -3419,6 +3419,60 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1404171794536996864",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789143153369,
+      "creator_user_id": "1396527293190381568",
+      "creator": {
+        "user_id": "1396527293190381568",
+        "display_name": "ToiletBowlAllStars2026",
+        "team_name": "Toilet Bowl All-Stars"
+      },
+      "adds": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "7839",
+            "name": "Evan McPherson",
+            "position": "K",
+            "team": "CIN",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "K"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "6650",
+            "name": "Chase McLaughlin",
+            "position": "K",
+            "team": "TB",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "K"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1403740134775500800",
       "type": "free_agent",
@@ -7483,10 +7537,10 @@
           "depth_chart_position": "RWR"
         },
         {
-          "id": "6650",
-          "name": "Chase McLaughlin",
+          "id": "7839",
+          "name": "Evan McPherson",
           "position": "K",
-          "team": "TB",
+          "team": "CIN",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -7555,16 +7609,6 @@
           "depth_chart_position": "QB"
         },
         {
-          "id": "6650",
-          "name": "Chase McLaughlin",
-          "position": "K",
-          "team": "TB",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "K"
-        },
-        {
           "id": "6797",
           "name": "Justin Herbert",
           "position": "QB",
@@ -7603,6 +7647,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
+        },
+        {
+          "id": "7839",
+          "name": "Evan McPherson",
+          "position": "K",
+          "team": "CIN",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "K"
         },
         {
           "id": "9224",
@@ -7661,19 +7715,6 @@
         },
         {
           "player": {
-            "id": "6650",
-            "name": "Chase McLaughlin",
-            "position": "K",
-            "team": "TB",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "K"
-          },
-          "points": 0
-        },
-        {
-          "player": {
             "id": "6797",
             "name": "Justin Herbert",
             "position": "QB",
@@ -7721,6 +7762,19 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RWR"
+          },
+          "points": 0
+        },
+        {
+          "player": {
+            "id": "7839",
+            "name": "Evan McPherson",
+            "position": "K",
+            "team": "CIN",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "K"
           },
           "points": 0
         },
