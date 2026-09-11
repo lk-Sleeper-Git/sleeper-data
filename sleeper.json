@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-11T03:00:57.142Z",
+    "updated_at": "2026-09-11T04:01:16.631Z",
     "player_index_updated_at": "2026-09-10T12:17:08.913484+00:00"
   },
   "league": {
@@ -5264,7 +5264,7 @@
         "display_name": "OliMaitland",
         "team_name": "Jamal Adams Avengers"
       },
-      "points": 14.1,
+      "points": 15.5,
       "custom_points": null,
       "starters": [
         {
@@ -5577,7 +5577,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 14.1
+          "points": 15.5
         },
         {
           "player": {
@@ -5655,7 +5655,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 5
+          "points": 5.4
         },
         {
           "player": {
@@ -5693,7 +5693,7 @@
         "display_name": "kbreez",
         "team_name": "Kbreez"
       },
-      "points": 25.72,
+      "points": 27.22,
       "custom_points": null,
       "starters": [
         {
@@ -6019,7 +6019,7 @@
             "practice_participation": null,
             "depth_chart_position": "RWR"
           },
-          "points": 10.9
+          "points": 12.4
         },
         {
           "player": {
@@ -6551,7 +6551,7 @@
         "display_name": "Axmen",
         "team_name": "Full Axeleration"
       },
-      "points": 44.9,
+      "points": 45,
       "custom_points": null,
       "starters": [
         {
@@ -6890,7 +6890,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 28
+          "points": 28.1
         },
         {
           "player": {
@@ -7838,7 +7838,7 @@
         "display_name": "jduran2089",
         "team_name": null
       },
-      "points": 16.6,
+      "points": 18.6,
       "custom_points": null,
       "starters": [
         {
@@ -8086,7 +8086,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 4.34
+          "points": 5.1
         },
         {
           "player": {
@@ -8099,7 +8099,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 3.6
+          "points": 5.6
         },
         {
           "player": {
@@ -8267,7 +8267,7 @@
         "display_name": "ninathedemolisher",
         "team_name": "Nina the DEMOLISHER"
       },
-      "points": 24.9,
+      "points": 26.8,
       "custom_points": null,
       "starters": [
         {
@@ -8528,7 +8528,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 11.9
+          "points": 13.8
         },
         {
           "player": {
