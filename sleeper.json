@@ -4,8 +4,8 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-11T12:01:25.114Z",
-    "player_index_updated_at": "2026-09-10T12:17:08.913484+00:00"
+    "updated_at": "2026-09-11T13:01:22.439Z",
+    "player_index_updated_at": "2026-09-11T12:17:29.558469+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -2455,7 +2455,7 @@
           "name": "Patrick Mahomes",
           "position": "QB",
           "team": "KC",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
@@ -2535,7 +2535,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2597,7 +2597,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2669,7 +2669,7 @@
           "name": "Brock Bowers",
           "position": "TE",
           "team": "LV",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -3237,7 +3237,7 @@
           "name": "De'Zhaun Stribling",
           "position": "WR",
           "team": "SF",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -7457,7 +7457,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -7549,7 +7549,7 @@
           "name": "Patrick Mahomes",
           "position": "QB",
           "team": "KC",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
@@ -7629,7 +7629,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -7652,7 +7652,7 @@
             "name": "Patrick Mahomes",
             "position": "QB",
             "team": "KC",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "QB"
@@ -7756,7 +7756,7 @@
             "name": "Zay Flowers",
             "position": "WR",
             "team": "BAL",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
@@ -7938,7 +7938,7 @@
           "name": "Brock Bowers",
           "position": "TE",
           "team": "LV",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -8211,7 +8211,7 @@
             "name": "Brock Bowers",
             "position": "TE",
             "team": "LV",
-            "injury_status": "Doubtful",
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
@@ -8856,7 +8856,7 @@
           "name": "De'Zhaun Stribling",
           "position": "WR",
           "team": "SF",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -9095,7 +9095,7 @@
             "name": "De'Zhaun Stribling",
             "position": "WR",
             "team": "SF",
-            "injury_status": null,
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
