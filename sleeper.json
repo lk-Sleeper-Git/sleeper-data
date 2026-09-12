@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-12T18:01:07.071Z",
+    "updated_at": "2026-09-12T19:01:00.145Z",
     "player_index_updated_at": "2026-09-12T12:15:24.992234+00:00"
   },
   "league": {
@@ -835,14 +835,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC",
+          "id": "13285",
+          "name": "Malachi Fields",
+          "position": "WR",
+          "team": "NYG",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "TE"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "1945",
@@ -4699,14 +4699,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "1466",
-          "name": "Travis Kelce",
-          "position": "TE",
-          "team": "KC",
+          "id": "13285",
+          "name": "Malachi Fields",
+          "position": "WR",
+          "team": "NYG",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "TE"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "1945",
