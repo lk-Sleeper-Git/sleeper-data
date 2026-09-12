@@ -4,8 +4,8 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-12T12:01:47.754Z",
-    "player_index_updated_at": "2026-09-11T12:17:29.558469+00:00"
+    "updated_at": "2026-09-12T13:01:05.220Z",
+    "player_index_updated_at": "2026-09-12T12:15:24.992234+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -432,8 +432,8 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "injury_status": "Out",
-          "status": "Active",
+          "injury_status": "IR",
+          "status": "Inactive",
           "practice_participation": null,
           "depth_chart_position": "LWR"
         },
@@ -534,8 +534,8 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "injury_status": "Out",
-          "status": "Active",
+          "injury_status": "IR",
+          "status": "Inactive",
           "practice_participation": null,
           "depth_chart_position": "LWR"
         },
@@ -667,7 +667,7 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -1155,7 +1155,7 @@
           "name": "Jonathon Brooks",
           "position": "RB",
           "team": "CAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -1763,7 +1763,7 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -2027,7 +2027,7 @@
           "name": "Keaton Mitchell",
           "position": "RB",
           "team": "LAC",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -2780,7 +2780,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -4187,8 +4187,8 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "injury_status": "Out",
-          "status": "Active",
+          "injury_status": "IR",
+          "status": "Inactive",
           "practice_participation": null,
           "depth_chart_position": "LWR"
         },
@@ -4339,8 +4339,8 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "injury_status": "Out",
-          "status": "Active",
+          "injury_status": "IR",
+          "status": "Inactive",
           "practice_participation": null,
           "depth_chart_position": "LWR"
         },
@@ -4451,8 +4451,8 @@
             "name": "A.J. Brown",
             "position": "WR",
             "team": "NE",
-            "injury_status": "Out",
-            "status": "Active",
+            "injury_status": "IR",
+            "status": "Inactive",
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
@@ -4754,7 +4754,7 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -4984,7 +4984,7 @@
             "name": "Jacory Croskey-Merritt",
             "position": "RB",
             "team": "WAS",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -5592,7 +5592,7 @@
           "name": "Jonathon Brooks",
           "position": "RB",
           "team": "CAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -5855,7 +5855,7 @@
             "name": "Jonathon Brooks",
             "position": "RB",
             "team": "CAR",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -6550,7 +6550,7 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -6661,7 +6661,7 @@
             "name": "Alec Pierce",
             "position": "WR",
             "team": "IND",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
@@ -6989,7 +6989,7 @@
           "name": "Keaton Mitchell",
           "position": "RB",
           "team": "LAC",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -7116,7 +7116,7 @@
             "name": "Keaton Mitchell",
             "position": "RB",
             "team": "LAC",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -8292,7 +8292,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -8423,7 +8423,7 @@
             "name": "Jakobi Meyers",
             "position": "WR",
             "team": "JAX",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RWR"
