@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-12T04:01:25.382Z",
+    "updated_at": "2026-09-12T05:00:54.628Z",
     "player_index_updated_at": "2026-09-11T12:17:29.558469+00:00"
   },
   "league": {
@@ -2309,21 +2309,21 @@
           "depth_chart_position": "QB"
         },
         {
-          "id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI",
-          "injury_status": "Questionable",
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
-        },
-        {
           "id": "12512",
           "name": "Quinshon Judkins",
           "position": "RB",
           "team": "CLE",
           "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -7212,21 +7212,21 @@
           "depth_chart_position": "QB"
         },
         {
-          "id": "13287",
-          "name": "Jeremiyah Love",
-          "position": "RB",
-          "team": "ARI",
-          "injury_status": "Questionable",
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
-        },
-        {
           "id": "12512",
           "name": "Quinshon Judkins",
           "position": "RB",
           "team": "CLE",
           "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "13287",
+          "name": "Jeremiyah Love",
+          "position": "RB",
+          "team": "ARI",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
