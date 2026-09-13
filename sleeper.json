@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-13T10:00:47.664Z",
+    "updated_at": "2026-09-13T11:00:01.236Z",
     "player_index_updated_at": "2026-09-12T12:15:24.992234+00:00"
   },
   "league": {
@@ -116,6 +116,7 @@
     "shard": 101,
     "sport": "nfl",
     "last_message_id": "1404302008185331712",
+    "draft_id": "1396978277846953984",
     "last_author_avatar": null,
     "last_author_display_name": "ToiletBowlAllStars2026",
     "last_author_id": "1396527293190381568",
@@ -125,10 +126,8 @@
     "last_message_time": 1789174198723,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -147,6 +146,7 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
