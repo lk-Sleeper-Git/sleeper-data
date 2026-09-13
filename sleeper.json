@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-13T13:00:01.199Z",
+    "updated_at": "2026-09-13T14:00:01.324Z",
     "player_index_updated_at": "2026-09-13T12:15:48.845262+00:00"
   },
   "league": {
@@ -62,10 +62,11 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "shard": 101,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 101,
+    "last_message_id": "1404302008185331712",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -115,8 +116,6 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_message_id": "1404302008185331712",
-    "draft_id": "1396978277846953984",
     "last_author_avatar": null,
     "last_author_display_name": "ToiletBowlAllStars2026",
     "last_author_id": "1396527293190381568",
@@ -125,6 +124,7 @@
     "last_message_text_map": null,
     "last_message_time": 1789174198723,
     "last_pinned_message_id": null,
+    "draft_id": "1396978277846953984",
     "last_read_id": null,
     "league_id": "1396978277226184704",
     "previous_league_id": null,
