@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-13T20:00:01.225Z",
+    "updated_at": "2026-09-13T21:00:01.175Z",
     "player_index_updated_at": "2026-09-13T12:15:48.845262+00:00"
   },
   "league": {
@@ -62,10 +62,10 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "shard": 101,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 101,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -116,7 +116,6 @@
       "st_ff": 0
     },
     "last_message_id": "1404302008185331712",
-    "draft_id": "1396978277846953984",
     "last_author_avatar": null,
     "last_author_display_name": "ToiletBowlAllStars2026",
     "last_author_id": "1396527293190381568",
@@ -125,10 +124,10 @@
     "last_message_text_map": null,
     "last_message_time": 1789174198723,
     "last_pinned_message_id": null,
+    "draft_id": "1396978277846953984",
     "last_read_id": null,
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -147,6 +146,7 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -4160,7 +4160,7 @@
         "display_name": "xtremeroi",
         "team_name": "Vibe Code Junkies"
       },
-      "points": 107.36,
+      "points": 115.16,
       "custom_points": null,
       "starters": [
         {
@@ -4428,7 +4428,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 27.26
+          "points": 26.96
         },
         {
           "player": {
@@ -4480,7 +4480,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 23.5
+          "points": 32.4
         },
         {
           "player": {
@@ -4519,7 +4519,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 2.2
         },
         {
           "player": {
@@ -4558,7 +4558,7 @@
             "practice_participation": null,
             "depth_chart_position": "RWR"
           },
-          "points": 7.3
+          "points": 9.5
         },
         {
           "player": {
@@ -4571,7 +4571,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 17.2
+          "points": 20.4
         },
         {
           "player": {
@@ -4623,7 +4623,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 1.5
+          "points": -1.5
         }
       ]
     },
@@ -4635,7 +4635,7 @@
         "display_name": "SkylarXROI",
         "team_name": "Out of Budget"
       },
-      "points": 105.86,
+      "points": 118.16,
       "custom_points": null,
       "starters": [
         {
@@ -4935,7 +4935,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 29.1
+          "points": 33.6
         },
         {
           "player": {
@@ -4961,7 +4961,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 33.46
+          "points": 41.26
         },
         {
           "player": {
@@ -5000,7 +5000,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 1.1
         },
         {
           "player": {
@@ -5064,7 +5064,7 @@
         "display_name": "dustinlamont",
         "team_name": "Dustinator"
       },
-      "points": 23.7,
+      "points": 48.46,
       "custom_points": null,
       "starters": [
         {
@@ -5312,7 +5312,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 0.5
         },
         {
           "player": {
@@ -5351,7 +5351,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 0
+          "points": 3.56
         },
         {
           "player": {
@@ -5390,7 +5390,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 9.4
+          "points": 10.3
         },
         {
           "player": {
@@ -5403,7 +5403,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 4.5
         },
         {
           "player": {
@@ -5442,7 +5442,7 @@
             "practice_participation": null,
             "depth_chart_position": "SWR"
           },
-          "points": 0
+          "points": 9
         },
         {
           "player": {
@@ -5468,7 +5468,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 5.2
+          "points": 10.5
         },
         {
           "player": {
@@ -5481,7 +5481,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 5
+          "points": 6.5
         }
       ]
     },
@@ -5493,7 +5493,7 @@
         "display_name": "OliMaitland",
         "team_name": "Jamal Adams Avengers"
       },
-      "points": 71.98,
+      "points": 116.24,
       "custom_points": null,
       "starters": [
         {
@@ -5741,7 +5741,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 12.28
+          "points": 20.44
         },
         {
           "player": {
@@ -5780,7 +5780,7 @@
             "practice_participation": null,
             "depth_chart_position": "RWR"
           },
-          "points": 18.2
+          "points": 28.2
         },
         {
           "player": {
@@ -5793,7 +5793,7 @@
             "practice_participation": null,
             "depth_chart_position": "RWR"
           },
-          "points": 5.3
+          "points": 8.5
         },
         {
           "player": {
@@ -5832,7 +5832,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 0
+          "points": 15.1
         },
         {
           "player": {
@@ -5858,7 +5858,7 @@
             "practice_participation": null,
             "depth_chart_position": "K"
           },
-          "points": 3
+          "points": 7
         },
         {
           "player": {
@@ -5910,7 +5910,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 0
+          "points": 7
         }
       ]
     },
@@ -5922,7 +5922,7 @@
         "display_name": "kbreez",
         "team_name": "Kbreez"
       },
-      "points": 74.72,
+      "points": 87.52,
       "custom_points": null,
       "starters": [
         {
@@ -6183,7 +6183,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 5.6
+          "points": 8
         },
         {
           "player": {
@@ -6209,7 +6209,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 12.9
+          "points": 14.8
         },
         {
           "player": {
@@ -6326,7 +6326,7 @@
             "practice_participation": null,
             "depth_chart_position": "K"
           },
-          "points": 10.7
+          "points": 15.2
         },
         {
           "player": {
@@ -6339,7 +6339,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 0
+          "points": 4
         }
       ]
     },
@@ -6351,7 +6351,7 @@
         "display_name": "1terrainTristan",
         "team_name": "Dynasty Dawgs"
       },
-      "points": 65.4,
+      "points": 70.22,
       "custom_points": null,
       "starters": [
         {
@@ -6638,7 +6638,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 19
+          "points": 21.2
         },
         {
           "player": {
@@ -6703,7 +6703,7 @@
             "practice_participation": null,
             "depth_chart_position": "TE"
           },
-          "points": 7.9
+          "points": 9.8
         },
         {
           "player": {
@@ -6729,7 +6729,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 0
+          "points": 0.72
         },
         {
           "player": {
@@ -6780,7 +6780,7 @@
         "display_name": "Axmen",
         "team_name": "Full Axeleration"
       },
-      "points": 98.1,
+      "points": 100.5,
       "custom_points": null,
       "starters": [
         {
@@ -7041,7 +7041,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 34.4
+          "points": 35.3
         },
         {
           "player": {
@@ -7080,7 +7080,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 3.9
+          "points": 4.1
         },
         {
           "player": {
@@ -7106,7 +7106,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 8.4
+          "points": 9.9
         },
         {
           "player": {
@@ -7132,7 +7132,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 0.2
         },
         {
           "player": {
@@ -7209,7 +7209,7 @@
         "display_name": "bamirzada",
         "team_name": "WinnaChickenDinna"
       },
-      "points": 66,
+      "points": 78.6,
       "custom_points": null,
       "starters": [
         {
@@ -7457,7 +7457,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 0
+          "points": 0.66
         },
         {
           "player": {
@@ -7483,7 +7483,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 0
+          "points": 3.2
         },
         {
           "player": {
@@ -7496,7 +7496,7 @@
             "practice_participation": null,
             "depth_chart_position": "RWR"
           },
-          "points": 6.9
+          "points": 8.8
         },
         {
           "player": {
@@ -7522,7 +7522,7 @@
             "practice_participation": null,
             "depth_chart_position": "K"
           },
-          "points": 0
+          "points": 1
         },
         {
           "player": {
@@ -7561,7 +7561,7 @@
             "practice_participation": null,
             "depth_chart_position": "SWR"
           },
-          "points": 23.7
+          "points": 33.8
         },
         {
           "player": {
@@ -7613,7 +7613,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 8.4
         },
         {
           "player": {
@@ -7638,7 +7638,7 @@
         "display_name": "ToiletBowlAllStars2026",
         "team_name": "Toilet Bowl All-Stars"
       },
-      "points": 122.1,
+      "points": 140.9,
       "custom_points": null,
       "starters": [
         {
@@ -7919,7 +7919,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 0
+          "points": 2.9
         },
         {
           "player": {
@@ -7945,7 +7945,7 @@
             "practice_participation": null,
             "depth_chart_position": "TE"
           },
-          "points": 0
+          "points": 14.5
         },
         {
           "player": {
@@ -7984,7 +7984,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 18.4
+          "points": 18.8
         },
         {
           "player": {
@@ -8036,7 +8036,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 0
+          "points": 1.6
         },
         {
           "player": {
@@ -8101,7 +8101,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 17
+          "points": 18
         }
       ]
     },
@@ -8113,7 +8113,7 @@
         "display_name": "jduran2089",
         "team_name": null
       },
-      "points": 78.96,
+      "points": 99.96,
       "custom_points": null,
       "starters": [
         {
@@ -8400,7 +8400,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 0.9
         },
         {
           "player": {
@@ -8413,7 +8413,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 30.76
+          "points": 39.66
         },
         {
           "player": {
@@ -8452,7 +8452,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 0
+          "points": 2.2
         },
         {
           "player": {
@@ -8465,7 +8465,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 19.8
+          "points": 23.7
         },
         {
           "player": {
@@ -8478,7 +8478,7 @@
             "practice_participation": null,
             "depth_chart_position": "TE"
           },
-          "points": 0
+          "points": 5.1
         },
         {
           "player": {
@@ -8504,7 +8504,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 4.4
+          "points": 5
         },
         {
           "player": {
@@ -8542,7 +8542,7 @@
         "display_name": "ninathedemolisher",
         "team_name": "Nina the DEMOLISHER"
       },
-      "points": 86.4,
+      "points": 97.86,
       "custom_points": null,
       "starters": [
         {
@@ -8829,7 +8829,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 17.2
+          "points": 17.16
         },
         {
           "player": {
@@ -8868,7 +8868,7 @@
             "practice_participation": null,
             "depth_chart_position": "SWR"
           },
-          "points": 8.7
+          "points": 8.8
         },
         {
           "player": {
@@ -8907,7 +8907,7 @@
             "practice_participation": null,
             "depth_chart_position": "TE"
           },
-          "points": 13.5
+          "points": 18
         },
         {
           "player": {
@@ -8933,7 +8933,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 7
         },
         {
           "player": {
@@ -8946,7 +8946,7 @@
             "practice_participation": null,
             "depth_chart_position": "SWR"
           },
-          "points": 0
+          "points": 1.8
         },
         {
           "player": {
@@ -8971,7 +8971,7 @@
         "display_name": "supplementkings",
         "team_name": null
       },
-      "points": 92,
+      "points": 117.5,
       "custom_points": null,
       "starters": [
         {
@@ -9219,7 +9219,7 @@
             "practice_participation": null,
             "depth_chart_position": "RWR"
           },
-          "points": 0
+          "points": 2.3
         },
         {
           "player": {
@@ -9245,7 +9245,7 @@
             "practice_participation": null,
             "depth_chart_position": "SWR"
           },
-          "points": 19.6
+          "points": 28.7
         },
         {
           "player": {
@@ -9258,7 +9258,7 @@
             "practice_participation": null,
             "depth_chart_position": "TE"
           },
-          "points": 0
+          "points": 8.4
         },
         {
           "player": {
@@ -9271,7 +9271,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 0.7
         },
         {
           "player": {
@@ -9284,7 +9284,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": -0.3
         },
         {
           "player": {
@@ -9349,7 +9349,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0
+          "points": 4
         },
         {
           "player": {
@@ -9388,7 +9388,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 0
+          "points": 4
         }
       ]
     }
