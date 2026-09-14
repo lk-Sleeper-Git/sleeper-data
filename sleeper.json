@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-14T03:00:01.168Z",
+    "updated_at": "2026-09-14T04:00:01.187Z",
     "player_index_updated_at": "2026-09-13T12:15:48.845262+00:00"
   },
   "league": {
@@ -62,10 +62,7 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "shard": 101,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
+    "last_message_id": "1405040044456079360",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -115,14 +112,17 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_message_id": "1405040044456079360",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 101,
+    "sport": "nfl",
     "last_author_avatar": "7572250c2fb084c434fed0e82229e183",
     "last_author_display_name": "bamirzada",
     "last_author_id": "1397706727486398464",
+    "draft_id": "1396978277846953984",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "draft_id": "1396978277846953984",
     "last_message_time": 1789350160282,
     "last_pinned_message_id": null,
     "last_read_id": null,
@@ -6170,7 +6170,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 11.04
+          "points": 19.4
         },
         {
           "player": {
@@ -6351,7 +6351,7 @@
         "display_name": "1terrainTristan",
         "team_name": "Dynasty Dawgs"
       },
-      "points": 103.76,
+      "points": 115.36,
       "custom_points": null,
       "starters": [
         {
@@ -6651,7 +6651,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 12.6
+          "points": 24.2
         },
         {
           "player": {
@@ -7209,7 +7209,7 @@
         "display_name": "bamirzada",
         "team_name": "WinnaChickenDinna"
       },
-      "points": 168.62,
+      "points": 172.6,
       "custom_points": null,
       "starters": [
         {
@@ -7509,7 +7509,7 @@
             "practice_participation": null,
             "depth_chart_position": "TE"
           },
-          "points": 24.1
+          "points": 27.8
         },
         {
           "player": {
@@ -7574,7 +7574,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 32.32
+          "points": 32.6
         },
         {
           "player": {
@@ -8113,7 +8113,7 @@
         "display_name": "jduran2089",
         "team_name": null
       },
-      "points": 129.96,
+      "points": 132.36,
       "custom_points": null,
       "starters": [
         {
@@ -8517,7 +8517,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 11.7
+          "points": 14.1
         },
         {
           "player": {
@@ -8542,7 +8542,7 @@
         "display_name": "ninathedemolisher",
         "team_name": "Nina the DEMOLISHER"
       },
-      "points": 118.76,
+      "points": 120.36,
       "custom_points": null,
       "starters": [
         {
@@ -8842,7 +8842,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 13.8
+          "points": 15.4
         },
         {
           "player": {
