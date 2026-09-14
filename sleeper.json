@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-14T21:00:01.383Z",
+    "updated_at": "2026-09-14T22:00:01.324Z",
     "player_index_updated_at": "2026-09-14T12:18:05.144173+00:00"
   },
   "league": {
@@ -62,10 +62,10 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
+    "shard": 101,
     "season": "2026",
-    "last_message_id": "1405040044456079360",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -115,7 +115,7 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "shard": 101,
+    "last_message_id": "1405040044456079360",
     "draft_id": "1396978277846953984",
     "last_author_avatar": "7572250c2fb084c434fed0e82229e183",
     "last_author_display_name": "bamirzada",
