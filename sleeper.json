@@ -4,8 +4,8 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-14T12:00:01.133Z",
-    "player_index_updated_at": "2026-09-13T12:15:48.845262+00:00"
+    "updated_at": "2026-09-14T13:00:01.971Z",
+    "player_index_updated_at": "2026-09-14T12:18:05.144173+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -62,7 +62,9 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "last_message_id": "1405040044456079360",
+    "shard": 101,
+    "season": "2026",
+    "season_type": "regular",
     "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
@@ -113,9 +115,8 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 101,
+    "last_message_id": "1405040044456079360",
+    "draft_id": "1396978277846953984",
     "last_author_avatar": "7572250c2fb084c434fed0e82229e183",
     "last_author_display_name": "bamirzada",
     "last_author_id": "1397706727486398464",
@@ -125,7 +126,6 @@
     "last_message_time": 1789350160282,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
     "roster_positions": [
@@ -144,9 +144,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -657,7 +657,7 @@
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -697,7 +697,7 @@
           "name": "Ja'Kobi Lane",
           "position": "WR",
           "team": "BAL",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -839,7 +839,7 @@
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -901,7 +901,7 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -1073,7 +1073,7 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -1763,7 +1763,7 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -2201,7 +2201,7 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -2211,7 +2211,7 @@
           "name": "Kyler Murray",
           "position": "QB",
           "team": "MIN",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
@@ -2323,7 +2323,7 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -2425,7 +2425,7 @@
           "name": "Brian Thomas",
           "position": "WR",
           "team": "JAX",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -2545,7 +2545,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2607,7 +2607,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -3219,7 +3219,7 @@
           "name": "Rome Odunze",
           "position": "WR",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -3391,7 +3391,7 @@
           "name": "Rome Odunze",
           "position": "WR",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -3889,7 +3889,7 @@
             "name": "Dylan Sampson",
             "position": "RB",
             "team": "CLE",
-            "injury_status": null,
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -3977,7 +3977,7 @@
             "name": "Dylan Sampson",
             "position": "RB",
             "team": "CLE",
-            "injury_status": null,
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -4051,7 +4051,7 @@
             "name": "Dylan Sampson",
             "position": "RB",
             "team": "CLE",
-            "injury_status": null,
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -4703,7 +4703,7 @@
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -4755,7 +4755,7 @@
           "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -4795,7 +4795,7 @@
           "name": "Ja'Kobi Lane",
           "position": "WR",
           "team": "BAL",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -4982,7 +4982,7 @@
             "name": "Malik Nabers",
             "position": "WR",
             "team": "NYG",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
@@ -5034,7 +5034,7 @@
             "name": "Ja'Kobi Lane",
             "position": "WR",
             "team": "BAL",
-            "injury_status": null,
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RWR"
@@ -5112,7 +5112,7 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -5174,7 +5174,7 @@
           "name": "Ladd McConkey",
           "position": "WR",
           "team": "LAC",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -5437,7 +5437,7 @@
             "name": "Ladd McConkey",
             "position": "WR",
             "team": "LAC",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
@@ -6561,7 +6561,7 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -6672,7 +6672,7 @@
             "name": "Alec Pierce",
             "position": "WR",
             "team": "IND",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
@@ -7237,7 +7237,7 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -7349,7 +7349,7 @@
           "name": "Jeremiyah Love",
           "position": "RB",
           "team": "ARI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -7359,7 +7359,7 @@
           "name": "Kyler Murray",
           "position": "QB",
           "team": "MIN",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
@@ -7452,7 +7452,7 @@
             "name": "Kyler Murray",
             "position": "QB",
             "team": "MIN",
-            "injury_status": null,
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "QB"
@@ -7608,7 +7608,7 @@
             "name": "Jeremiyah Love",
             "position": "RB",
             "team": "ARI",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -7686,7 +7686,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -7748,7 +7748,7 @@
           "name": "Brian Thomas",
           "position": "WR",
           "team": "JAX",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -7878,7 +7878,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": null,
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -8018,7 +8018,7 @@
             "name": "Zay Flowers",
             "position": "WR",
             "team": "BAL",
-            "injury_status": null,
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
@@ -8044,7 +8044,7 @@
             "name": "Brian Thomas",
             "position": "WR",
             "team": "JAX",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
@@ -9019,7 +9019,7 @@
           "name": "Rome Odunze",
           "position": "WR",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -9081,7 +9081,7 @@
           "name": "Rome Odunze",
           "position": "WR",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -9305,7 +9305,7 @@
             "name": "Rome Odunze",
             "position": "WR",
             "team": "CHI",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
