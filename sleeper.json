@@ -4,7 +4,7 @@
     "week": 1,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-15T02:00:01.101Z",
+    "updated_at": "2026-09-15T03:00:01.119Z",
     "player_index_updated_at": "2026-09-14T12:18:05.144173+00:00"
   },
   "league": {
@@ -62,10 +62,6 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "shard": 101,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -115,7 +111,12 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 101,
+    "sport": "nfl",
     "last_message_id": "1405040044456079360",
+    "draft_id": "1396978277846953984",
     "last_author_avatar": "7572250c2fb084c434fed0e82229e183",
     "last_author_display_name": "bamirzada",
     "last_author_id": "1397706727486398464",
@@ -124,10 +125,14 @@
     "last_message_text_map": null,
     "last_message_time": 1789350160282,
     "last_pinned_message_id": null,
-    "draft_id": "1396978277846953984",
     "last_read_id": null,
     "league_id": "1396978277226184704",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -144,11 +149,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -4883,7 +4883,7 @@
             "practice_participation": null,
             "depth_chart_position": "TE"
           },
-          "points": 1.6
+          "points": 10.1
         },
         {
           "player": {
@@ -5064,7 +5064,7 @@
         "display_name": "dustinlamont",
         "team_name": "Dustinator"
       },
-      "points": 118.42,
+      "points": 133.02,
       "custom_points": null,
       "starters": [
         {
@@ -5325,7 +5325,7 @@
             "practice_participation": null,
             "depth_chart_position": "K"
           },
-          "points": 2
+          "points": 7
         },
         {
           "player": {
@@ -5338,7 +5338,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 0.5
+          "points": 3.6
         },
         {
           "player": {
@@ -5377,7 +5377,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 24.5
+          "points": 34.1
         },
         {
           "player": {
@@ -5429,7 +5429,7 @@
             "practice_participation": null,
             "depth_chart_position": "RWR"
           },
-          "points": 3.3
+          "points": 4.8
         },
         {
           "player": {
@@ -6351,7 +6351,7 @@
         "display_name": "1terrainTristan",
         "team_name": "Dynasty Dawgs"
       },
-      "points": 116.36,
+      "points": 118.36,
       "custom_points": null,
       "starters": [
         {
@@ -6716,7 +6716,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 8.92
+          "points": 8.02
         },
         {
           "player": {
@@ -6768,7 +6768,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 1
+          "points": 3
         }
       ]
     },
@@ -6780,7 +6780,7 @@
         "display_name": "Axmen",
         "team_name": "Full Axeleration"
       },
-      "points": 125.4,
+      "points": 129.4,
       "custom_points": null,
       "starters": [
         {
@@ -7197,7 +7197,7 @@
             "practice_participation": null,
             "depth_chart_position": null
           },
-          "points": 8
+          "points": 12
         }
       ]
     },
@@ -7906,7 +7906,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 17.32
+          "points": 27.06
         },
         {
           "player": {
@@ -8426,7 +8426,7 @@
             "practice_participation": null,
             "depth_chart_position": "LWR"
           },
-          "points": 0
+          "points": 3.1
         },
         {
           "player": {
