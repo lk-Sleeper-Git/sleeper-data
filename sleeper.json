@@ -4,8 +4,8 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-15T12:00:02.289Z",
-    "player_index_updated_at": "2026-09-14T12:18:05.144173+00:00"
+    "updated_at": "2026-09-15T13:00:01.509Z",
+    "player_index_updated_at": "2026-09-15T12:16:33.114842+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -62,10 +62,12 @@
       "daily_waivers_last_ran": 31
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
-    "shard": 101,
-    "season": "2026",
-    "season_type": "regular",
+    "company_id": null,
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "last_message_id": "1405040044456079360",
+    "shard": 101,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -115,8 +117,6 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "company_id": null,
-    "last_message_id": "1405040044456079360",
     "last_author_avatar": "7572250c2fb084c434fed0e82229e183",
     "last_author_display_name": "bamirzada",
     "last_author_id": "1397706727486398464",
@@ -125,10 +125,11 @@
     "last_message_text_map": null,
     "last_message_time": 1789350160282,
     "last_pinned_message_id": null,
-    "draft_id": "1396978277846953984",
     "last_read_id": null,
+    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -147,7 +148,6 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -2190,7 +2190,7 @@
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2596,10 +2596,10 @@
       ],
       "starters": [
         {
-          "id": "6797",
-          "name": "Justin Herbert",
+          "id": "4046",
+          "name": "Patrick Mahomes",
           "position": "QB",
-          "team": "LAC",
+          "team": "KC",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -2636,14 +2636,14 @@
           "depth_chart_position": "RWR"
         },
         {
-          "id": "9997",
-          "name": "Zay Flowers",
+          "id": "11631",
+          "name": "Brian Thomas",
           "position": "WR",
-          "team": "BAL",
-          "injury_status": "Out",
+          "team": "JAX",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "7002",
@@ -2696,6 +2696,16 @@
           "status": "Inactive",
           "practice_participation": null,
           "depth_chart_position": "RB"
+        },
+        {
+          "id": "9997",
+          "name": "Zay Flowers",
+          "position": "WR",
+          "team": "BAL",
+          "injury_status": "Out",
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "SWR"
         }
       ],
       "settings": {
@@ -3374,7 +3384,7 @@
           "name": "Jordan Mason",
           "position": "RB",
           "team": "MIN",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -6476,7 +6486,7 @@
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -6723,7 +6733,7 @@
             "name": "Jalen Coker",
             "position": "WR",
             "team": "CAR",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
@@ -6809,10 +6819,10 @@
       "custom_points": null,
       "starters": [
         {
-          "id": "6797",
-          "name": "Justin Herbert",
+          "id": "4046",
+          "name": "Patrick Mahomes",
           "position": "QB",
-          "team": "LAC",
+          "team": "KC",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -6849,14 +6859,14 @@
           "depth_chart_position": "RWR"
         },
         {
-          "id": "9997",
-          "name": "Zay Flowers",
+          "id": "11631",
+          "name": "Brian Thomas",
           "position": "WR",
-          "team": "BAL",
-          "injury_status": "Out",
+          "team": "JAX",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "7002",
@@ -8153,7 +8163,7 @@
           "name": "Jordan Mason",
           "position": "RB",
           "team": "MIN",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -8241,7 +8251,7 @@
             "name": "Jordan Mason",
             "position": "RB",
             "team": "MIN",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
