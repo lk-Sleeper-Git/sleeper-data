@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-15T20:00:01.094Z",
+    "updated_at": "2026-09-15T21:00:01.319Z",
     "player_index_updated_at": "2026-09-15T12:16:33.114842+00:00"
   },
   "league": {
@@ -64,7 +64,10 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "last_message_id": "1405610710959955968",
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 101,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -114,10 +117,7 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 101,
+    "last_message_id": "1405610710959955968",
     "draft_id": "1396978277846953984",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -127,12 +127,12 @@
     "last_message_text_map": null,
     "last_message_time": 1789486217779,
     "last_pinned_message_id": null,
-    "league_id": "1396978277226184704",
     "last_read_id": null,
+    "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -811,14 +811,14 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "13285",
-          "name": "Malachi Fields",
+          "id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "4983",
@@ -841,14 +841,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "11632",
-          "name": "Malik Nabers",
-          "position": "WR",
-          "team": "NYG",
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RB"
         },
         {
           "id": "1945",
@@ -871,7 +871,28 @@
           "depth_chart_position": null
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "id": "13293",
+          "name": "Ja'Kobi Lane",
+          "position": "WR",
+          "team": "BAL",
+          "injury_status": "Out",
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RWR"
+        },
+        {
+          "id": "9753",
+          "name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA",
+          "injury_status": "PUP",
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        }
+      ],
       "settings": {
         "fpts": 135,
         "fpts_against": 172,
@@ -4029,14 +4050,14 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "13285",
-          "name": "Malachi Fields",
+          "id": "11632",
+          "name": "Malik Nabers",
           "position": "WR",
           "team": "NYG",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "4983",
@@ -4059,14 +4080,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "11632",
-          "name": "Malik Nabers",
-          "position": "WR",
-          "team": "NYG",
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RB"
         },
         {
           "id": "1945",
