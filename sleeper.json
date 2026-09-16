@@ -4,8 +4,8 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-16T12:00:02.306Z",
-    "player_index_updated_at": "2026-09-15T12:16:33.114842+00:00"
+    "updated_at": "2026-09-16T13:00:02.188Z",
+    "player_index_updated_at": "2026-09-16T12:17:12.146663+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -117,7 +117,7 @@
     "season_type": "regular",
     "shard": 101,
     "sport": "nfl",
-    "last_message_id": "1405847142483992576",
+    "last_message_id": "1405929114686259200",
     "draft_id": "1396978277846953984",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -125,16 +125,11 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789542587446,
+    "last_message_time": 1789562131142,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -703,7 +703,7 @@
           "name": "Ja'Kobi Lane",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -877,7 +877,7 @@
           "name": "Ja'Kobi Lane",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -1454,6 +1454,16 @@
           "depth_chart_position": "QB"
         },
         {
+          "id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
           "id": "12501",
           "name": "Matthew Golden",
           "position": "WR",
@@ -1544,16 +1554,6 @@
           "depth_chart_position": "RWR"
         },
         {
-          "id": "9500",
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "IND",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "SWR"
-        },
-        {
           "id": "9508",
           "name": "Tyjae Spears",
           "position": "RB",
@@ -1586,10 +1586,10 @@
           "depth_chart_position": "QB"
         },
         {
-          "id": "9508",
-          "name": "Tyjae Spears",
+          "id": "12489",
+          "name": "RJ Harvey",
           "position": "RB",
-          "team": "TEN",
+          "team": "DEN",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -2080,10 +2080,10 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "KC",
-          "name": "Kansas City Chiefs",
+          "id": "SF",
+          "name": "San Francisco 49ers",
           "position": "DEF",
-          "team": "KC",
+          "team": "SF",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -2132,14 +2132,14 @@
           "depth_chart_position": "SWR"
         },
         {
-          "id": "10222",
-          "name": "Jayden Reed",
+          "id": "5927",
+          "name": "Terry McLaurin",
           "position": "WR",
-          "team": "GB",
+          "team": "WAS",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "12518",
@@ -2172,10 +2172,10 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "KC",
-          "name": "Kansas City Chiefs",
+          "id": "SF",
+          "name": "San Francisco 49ers",
           "position": "DEF",
-          "team": "KC",
+          "team": "SF",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -2242,7 +2242,7 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -2262,7 +2262,7 @@
           "name": "Kyler Murray",
           "position": "QB",
           "team": "MIN",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
@@ -2600,7 +2600,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2724,7 +2724,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2759,7 +2759,7 @@
           "name": "Brock Bowers",
           "position": "TE",
           "team": "LV",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -3003,7 +3003,7 @@
           "name": "Brock Bowers",
           "position": "TE",
           "team": "LV",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -3366,7 +3366,7 @@
           "name": "De'Zhaun Stribling",
           "position": "WR",
           "team": "SF",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -3541,7 +3541,116 @@
       }
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "transaction_id": "1405929114556248064",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789562131112,
+      "creator_user_id": "355467075055054848",
+      "creator": {
+        "user_id": "355467075055054848",
+        "display_name": "kbreez",
+        "team_name": "Kbreez"
+      },
+      "adds": [
+        {
+          "roster_id": 5,
+          "manager": {
+            "user_id": "355467075055054848",
+            "display_name": "kbreez",
+            "team_name": "Kbreez"
+          },
+          "player": {
+            "id": "12489",
+            "name": "RJ Harvey",
+            "position": "RB",
+            "team": "DEN",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 5,
+          "manager": {
+            "user_id": "355467075055054848",
+            "display_name": "kbreez",
+            "team_name": "Kbreez"
+          },
+          "player": {
+            "id": "9500",
+            "name": "Josh Downs",
+            "position": "WR",
+            "team": "IND",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "SWR"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1405928666667450368",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789562024327,
+      "creator_user_id": "1259252607344459776",
+      "creator": {
+        "user_id": "1259252607344459776",
+        "display_name": "Axmen",
+        "team_name": "Full Axeleration"
+      },
+      "adds": [
+        {
+          "roster_id": 7,
+          "manager": {
+            "user_id": "1259252607344459776",
+            "display_name": "Axmen",
+            "team_name": "Full Axeleration"
+          },
+          "player": {
+            "id": "SF",
+            "name": "San Francisco 49ers",
+            "position": "DEF",
+            "team": "SF",
+            "injury_status": null,
+            "status": null,
+            "practice_participation": null,
+            "depth_chart_position": null
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 7,
+          "manager": {
+            "user_id": "1259252607344459776",
+            "display_name": "Axmen",
+            "team_name": "Full Axeleration"
+          },
+          "player": {
+            "id": "KC",
+            "name": "Kansas City Chiefs",
+            "position": "DEF",
+            "team": "KC",
+            "injury_status": null,
+            "status": null,
+            "practice_participation": null,
+            "depth_chart_position": null
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    }
+  ],
   "matchups": [
     {
       "matchup_id": 3,
@@ -4186,7 +4295,7 @@
           "name": "Ja'Kobi Lane",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -4425,7 +4534,7 @@
             "name": "Ja'Kobi Lane",
             "position": "WR",
             "team": "BAL",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RWR"
@@ -5327,10 +5436,10 @@
           "depth_chart_position": "QB"
         },
         {
-          "id": "9508",
-          "name": "Tyjae Spears",
+          "id": "12489",
+          "name": "RJ Harvey",
           "position": "RB",
-          "team": "TEN",
+          "team": "DEN",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -5429,6 +5538,16 @@
           "depth_chart_position": "QB"
         },
         {
+          "id": "12489",
+          "name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
           "id": "12501",
           "name": "Matthew Golden",
           "position": "WR",
@@ -5517,16 +5636,6 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
-        },
-        {
-          "id": "9500",
-          "name": "Josh Downs",
-          "position": "WR",
-          "team": "IND",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "SWR"
         },
         {
           "id": "9508",
@@ -5643,19 +5752,6 @@
         },
         {
           "player": {
-            "id": "9500",
-            "name": "Josh Downs",
-            "position": "WR",
-            "team": "IND",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "SWR"
-          },
-          "points": 0
-        },
-        {
-          "player": {
             "id": "9508",
             "name": "Tyjae Spears",
             "position": "RB",
@@ -5690,6 +5786,19 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "QB"
+          },
+          "points": 0
+        },
+        {
+          "player": {
+            "id": "12489",
+            "name": "RJ Harvey",
+            "position": "RB",
+            "team": "DEN",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
           },
           "points": 0
         },
@@ -6215,14 +6324,14 @@
           "depth_chart_position": "SWR"
         },
         {
-          "id": "10222",
-          "name": "Jayden Reed",
+          "id": "5927",
+          "name": "Terry McLaurin",
           "position": "WR",
-          "team": "GB",
+          "team": "WAS",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "12518",
@@ -6255,10 +6364,10 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "KC",
-          "name": "Kansas City Chiefs",
+          "id": "SF",
+          "name": "San Francisco 49ers",
           "position": "DEF",
-          "team": "KC",
+          "team": "SF",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -6397,10 +6506,10 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "KC",
-          "name": "Kansas City Chiefs",
+          "id": "SF",
+          "name": "San Francisco 49ers",
           "position": "DEF",
-          "team": "KC",
+          "team": "SF",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -6579,10 +6688,10 @@
         },
         {
           "player": {
-            "id": "KC",
-            "name": "Kansas City Chiefs",
+            "id": "SF",
+            "name": "San Francisco 49ers",
             "position": "DEF",
-            "team": "KC",
+            "team": "SF",
             "injury_status": null,
             "status": null,
             "practice_participation": null,
@@ -6730,7 +6839,7 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "team": "NE",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -6750,7 +6859,7 @@
           "name": "Kyler Murray",
           "position": "QB",
           "team": "MIN",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
@@ -6843,7 +6952,7 @@
             "name": "Kyler Murray",
             "position": "QB",
             "team": "MIN",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "QB"
@@ -6986,7 +7095,7 @@
             "name": "TreVeyon Henderson",
             "position": "RB",
             "team": "NE",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -7259,7 +7368,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -7399,7 +7508,7 @@
             "name": "Zay Flowers",
             "position": "WR",
             "team": "BAL",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
@@ -7581,7 +7690,7 @@
           "name": "Brock Bowers",
           "position": "TE",
           "team": "LV",
-          "injury_status": "Out",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -7864,7 +7973,7 @@
             "name": "Brock Bowers",
             "position": "TE",
             "team": "LV",
-            "injury_status": "Out",
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
@@ -8532,7 +8641,7 @@
           "name": "De'Zhaun Stribling",
           "position": "WR",
           "team": "SF",
-          "injury_status": "Out",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -8761,7 +8870,7 @@
             "name": "De'Zhaun Stribling",
             "position": "WR",
             "team": "SF",
-            "injury_status": "Out",
+            "injury_status": "Doubtful",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
