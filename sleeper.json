@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-16T16:00:01.973Z",
+    "updated_at": "2026-09-16T17:00:01.964Z",
     "player_index_updated_at": "2026-09-16T12:17:12.146663+00:00"
   },
   "league": {
@@ -64,9 +64,6 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -116,25 +113,23 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1405982928030224384",
     "shard": 101,
-    "last_message_id": "1405929114686259200",
-    "draft_id": "1396978277846953984",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789562131142,
+    "last_message_time": 1789574961244,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -532,14 +532,14 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "5859",
-          "name": "A.J. Brown",
+          "id": "12519",
+          "name": "Luther Burden",
           "position": "WR",
-          "team": "NE",
-          "injury_status": "IR",
-          "status": "Inactive",
+          "team": "CHI",
+          "injury_status": null,
+          "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "8112",
@@ -562,14 +562,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "12519",
-          "name": "Luther Burden",
+          "id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "CHI",
-          "injury_status": null,
-          "status": "Active",
+          "team": "NE",
+          "injury_status": "IR",
+          "status": "Inactive",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "5189",
@@ -669,6 +669,16 @@
           "depth_chart_position": "LWR"
         },
         {
+          "id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "team": "NO",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "SWR"
+        },
+        {
           "id": "12533",
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
@@ -709,6 +719,16 @@
           "depth_chart_position": "RWR"
         },
         {
+          "id": "13545",
+          "name": "Trey Smack",
+          "position": "K",
+          "team": "GB",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "K"
+        },
+        {
           "id": "1466",
           "name": "Travis Kelce",
           "position": "TE",
@@ -717,16 +737,6 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
-        },
-        {
-          "id": "1945",
-          "name": "Chris Boswell",
-          "position": "K",
-          "team": "PIT",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "K"
         },
         {
           "id": "4217",
@@ -851,10 +861,10 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "1945",
-          "name": "Chris Boswell",
+          "id": "13545",
+          "name": "Trey Smack",
           "position": "K",
-          "team": "PIT",
+          "team": "GB",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -872,16 +882,6 @@
         }
       ],
       "reserve": [
-        {
-          "id": "13293",
-          "name": "Ja'Kobi Lane",
-          "position": "WR",
-          "team": "BAL",
-          "injury_status": "Doubtful",
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RWR"
-        },
         {
           "id": "9753",
           "name": "Zach Charbonnet",
@@ -3543,6 +3543,165 @@
   ],
   "transactions": [
     {
+      "transaction_id": "1405982927916896256",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789574961216,
+      "creator_user_id": "1269873548755738624",
+      "creator": {
+        "user_id": "1269873548755738624",
+        "display_name": "SkylarXROI",
+        "team_name": "Out of Budget"
+      },
+      "adds": [
+        {
+          "roster_id": 2,
+          "manager": {
+            "user_id": "1269873548755738624",
+            "display_name": "SkylarXROI",
+            "team_name": "Out of Budget"
+          },
+          "player": {
+            "id": "11834",
+            "name": "Devaughn Vele",
+            "position": "WR",
+            "team": "NO",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "SWR"
+          }
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1405982383341064192",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789574831379,
+      "creator_user_id": "1269873548755738624",
+      "creator": {
+        "user_id": "1269873548755738624",
+        "display_name": "SkylarXROI",
+        "team_name": "Out of Budget"
+      },
+      "adds": [],
+      "drops": [
+        {
+          "roster_id": 2,
+          "manager": {
+            "user_id": "1269873548755738624",
+            "display_name": "SkylarXROI",
+            "team_name": "Out of Budget"
+          },
+          "player": {
+            "id": "GB",
+            "name": "Green Bay Packers",
+            "position": "DEF",
+            "team": "GB",
+            "injury_status": null,
+            "status": null,
+            "practice_participation": null,
+            "depth_chart_position": null
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1405982238356545536",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789574796812,
+      "creator_user_id": "1269873548755738624",
+      "creator": {
+        "user_id": "1269873548755738624",
+        "display_name": "SkylarXROI",
+        "team_name": "Out of Budget"
+      },
+      "adds": [
+        {
+          "roster_id": 2,
+          "manager": {
+            "user_id": "1269873548755738624",
+            "display_name": "SkylarXROI",
+            "team_name": "Out of Budget"
+          },
+          "player": {
+            "id": "GB",
+            "name": "Green Bay Packers",
+            "position": "DEF",
+            "team": "GB",
+            "injury_status": null,
+            "status": null,
+            "practice_participation": null,
+            "depth_chart_position": null
+          }
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1405981966645358592",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789574732031,
+      "creator_user_id": "1269873548755738624",
+      "creator": {
+        "user_id": "1269873548755738624",
+        "display_name": "SkylarXROI",
+        "team_name": "Out of Budget"
+      },
+      "adds": [
+        {
+          "roster_id": 2,
+          "manager": {
+            "user_id": "1269873548755738624",
+            "display_name": "SkylarXROI",
+            "team_name": "Out of Budget"
+          },
+          "player": {
+            "id": "13545",
+            "name": "Trey Smack",
+            "position": "K",
+            "team": "GB",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "K"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 2,
+          "manager": {
+            "user_id": "1269873548755738624",
+            "display_name": "SkylarXROI",
+            "team_name": "Out of Budget"
+          },
+          "player": {
+            "id": "1945",
+            "name": "Chris Boswell",
+            "position": "K",
+            "team": "PIT",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "K"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1405929114556248064",
       "type": "free_agent",
       "status": "complete",
@@ -3694,14 +3853,14 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "5859",
-          "name": "A.J. Brown",
+          "id": "12519",
+          "name": "Luther Burden",
           "position": "WR",
-          "team": "NE",
-          "injury_status": "IR",
-          "status": "Inactive",
+          "team": "CHI",
+          "injury_status": null,
+          "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "8112",
@@ -3724,14 +3883,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "12519",
-          "name": "Luther Burden",
+          "id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "CHI",
-          "injury_status": null,
-          "status": "Active",
+          "team": "NE",
+          "injury_status": "IR",
+          "status": "Inactive",
           "practice_participation": null,
-          "depth_chart_position": "RWR"
+          "depth_chart_position": "LWR"
         },
         {
           "id": "5189",
@@ -4209,10 +4368,10 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "1945",
-          "name": "Chris Boswell",
+          "id": "13545",
+          "name": "Trey Smack",
           "position": "K",
-          "team": "PIT",
+          "team": "GB",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -4261,6 +4420,16 @@
           "depth_chart_position": "LWR"
         },
         {
+          "id": "11834",
+          "name": "Devaughn Vele",
+          "position": "WR",
+          "team": "NO",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "SWR"
+        },
+        {
           "id": "12533",
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
@@ -4301,6 +4470,16 @@
           "depth_chart_position": "RWR"
         },
         {
+          "id": "13545",
+          "name": "Trey Smack",
+          "position": "K",
+          "team": "GB",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "K"
+        },
+        {
           "id": "1466",
           "name": "Travis Kelce",
           "position": "TE",
@@ -4309,16 +4488,6 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
-        },
-        {
-          "id": "1945",
-          "name": "Chris Boswell",
-          "position": "K",
-          "team": "PIT",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "K"
         },
         {
           "id": "4217",
@@ -4382,19 +4551,6 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
-          },
-          "points": 0
-        },
-        {
-          "player": {
-            "id": "1945",
-            "name": "Chris Boswell",
-            "position": "K",
-            "team": "PIT",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "K"
           },
           "points": 0
         },
@@ -4491,6 +4647,19 @@
         },
         {
           "player": {
+            "id": "11834",
+            "name": "Devaughn Vele",
+            "position": "WR",
+            "team": "NO",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "SWR"
+          },
+          "points": 0
+        },
+        {
+          "player": {
             "id": "12533",
             "name": "Jacory Croskey-Merritt",
             "position": "RB",
@@ -4538,6 +4707,19 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RWR"
+          },
+          "points": 0
+        },
+        {
+          "player": {
+            "id": "13545",
+            "name": "Trey Smack",
+            "position": "K",
+            "team": "GB",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "K"
           },
           "points": 0
         },
