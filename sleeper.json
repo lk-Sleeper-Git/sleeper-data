@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-16T13:00:02.188Z",
+    "updated_at": "2026-09-16T14:00:01.446Z",
     "player_index_updated_at": "2026-09-16T12:17:12.146663+00:00"
   },
   "league": {
@@ -64,6 +64,10 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 101,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -113,10 +117,6 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 101,
-    "sport": "nfl",
     "last_message_id": "1405929114686259200",
     "draft_id": "1396978277846953984",
     "last_author_avatar": null,
@@ -146,9 +146,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
