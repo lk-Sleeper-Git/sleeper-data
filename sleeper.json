@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-16T04:00:01.215Z",
+    "updated_at": "2026-09-16T05:00:01.102Z",
     "player_index_updated_at": "2026-09-15T12:16:33.114842+00:00"
   },
   "league": {
@@ -64,11 +64,9 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "last_message_id": "1405768027634429952",
-    "shard": 101,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -118,6 +116,8 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
+    "last_message_id": "1405768027634429952",
+    "shard": 101,
     "draft_id": "1396978277846953984",
     "last_author_avatar": "6332ba6ec0d3bb688ec30fd1648bb98a",
     "last_author_display_name": "OliMaitland",
@@ -130,11 +130,6 @@
     "last_read_id": null,
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -1894,14 +1894,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "7553",
-          "name": "Kyle Pitts",
-          "position": "TE",
-          "team": "ATL",
+          "id": "5872",
+          "name": "Deebo Samuel",
+          "position": "WR",
+          "team": "SF",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "TE"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "11786",
@@ -2937,14 +2937,14 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "2133",
-          "name": "Davante Adams",
+          "id": "5947",
+          "name": "Jakobi Meyers",
           "position": "WR",
-          "team": "LAR",
+          "team": "JAX",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "9482",
@@ -5654,7 +5654,98 @@
       },
       "points": 0,
       "custom_points": null,
-      "starters": [],
+      "starters": [
+        {
+          "id": "11566",
+          "name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "QB"
+        },
+        {
+          "id": "7588",
+          "name": "Javonte Williams",
+          "position": "RB",
+          "team": "DAL",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "7611",
+          "name": "Rhamondre Stevenson",
+          "position": "RB",
+          "team": "NE",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "7569",
+          "name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "LWR"
+        },
+        {
+          "id": "12514",
+          "name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "LWR"
+        },
+        {
+          "id": "10859",
+          "name": "Sam LaPorta",
+          "position": "TE",
+          "team": "DET",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "TE"
+        },
+        {
+          "id": "5872",
+          "name": "Deebo Samuel",
+          "position": "WR",
+          "team": "SF",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RWR"
+        },
+        {
+          "id": "11786",
+          "name": "Cam Little",
+          "position": "K",
+          "team": "JAX",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "K"
+        },
+        {
+          "id": "DEN",
+          "name": "Denver Broncos",
+          "position": "DEF",
+          "team": "DEN",
+          "injury_status": null,
+          "status": null,
+          "practice_participation": null,
+          "depth_chart_position": null
+        }
+      ],
       "players": [
         {
           "id": "10859",
@@ -7344,14 +7435,14 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "2133",
-          "name": "Davante Adams",
+          "id": "5947",
+          "name": "Jakobi Meyers",
           "position": "WR",
-          "team": "LAR",
+          "team": "JAX",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "9482",
