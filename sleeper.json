@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-16T22:00:01.538Z",
+    "updated_at": "2026-09-16T23:00:01.509Z",
     "player_index_updated_at": "2026-09-16T12:17:12.146663+00:00"
   },
   "league": {
@@ -117,24 +117,19 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_message_id": "1406040088462315520",
+    "last_message_id": "1406077838800494592",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789588589353,
+    "last_message_time": 1789597589735,
     "last_pinned_message_id": null,
-    "draft_id": "1396978277846953984",
     "last_read_id": null,
+    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -3342,6 +3342,16 @@
           "depth_chart_position": "SWR"
         },
         {
+          "id": "13346",
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "LWR"
+        },
+        {
           "id": "13414",
           "name": "Kaelon Black",
           "position": "RB",
@@ -3514,7 +3524,18 @@
           "depth_chart_position": null
         }
       ],
-      "reserve": [],
+      "reserve": [
+        {
+          "id": "8408",
+          "name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN",
+          "injury_status": "Questionable",
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        }
+      ],
       "settings": {
         "fpts": 167,
         "fpts_against": 132,
@@ -3532,6 +3553,41 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1406077838716624896",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789597589715,
+      "creator_user_id": "1397788309110931456",
+      "creator": {
+        "user_id": "1397788309110931456",
+        "display_name": "supplementkings",
+        "team_name": null
+      },
+      "adds": [
+        {
+          "roster_id": 12,
+          "manager": {
+            "user_id": "1397788309110931456",
+            "display_name": "supplementkings",
+            "team_name": null
+          },
+          "player": {
+            "id": "13346",
+            "name": "Denzel Boston",
+            "position": "WR",
+            "team": "CLE",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "LWR"
+          }
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1406040088361594880",
       "type": "free_agent",
@@ -8853,6 +8909,16 @@
           "depth_chart_position": "SWR"
         },
         {
+          "id": "13346",
+          "name": "Denzel Boston",
+          "position": "WR",
+          "team": "CLE",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "LWR"
+        },
+        {
           "id": "13414",
           "name": "Kaelon Black",
           "position": "RB",
@@ -9074,6 +9140,19 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
+          },
+          "points": 0
+        },
+        {
+          "player": {
+            "id": "13346",
+            "name": "Denzel Boston",
+            "position": "WR",
+            "team": "CLE",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "LWR"
           },
           "points": 0
         },
