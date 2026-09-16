@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-16T07:00:01.641Z",
+    "updated_at": "2026-09-16T08:00:01.582Z",
     "player_index_updated_at": "2026-09-15T12:16:33.114842+00:00"
   },
   "league": {
@@ -57,18 +57,17 @@
       "trade_review_days": 2,
       "bench_lock": 0,
       "offseason_adds": 0,
-      "leg": 1,
+      "leg": 2,
       "reserve_slots": 2,
       "reserve_allow_cov": 0,
       "daily_waivers_last_ran": 31
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 101,
-    "last_message_id": "1405768027634429952",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -118,21 +117,24 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_author_avatar": "6332ba6ec0d3bb688ec30fd1648bb98a",
-    "last_author_display_name": "OliMaitland",
-    "last_author_id": "1254480073906454528",
-    "last_author_is_bot": false,
+    "last_message_id": "1405847142483992576",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789523725001,
+    "last_message_time": 1789542587446,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1396978277846953984",
+    "last_read_id": null,
     "league_id": "1396978277226184704",
     "previous_league_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -149,8 +151,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -625,7 +625,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 12,
+        "waiver_position": 10,
         "wins": 1
       }
     },
@@ -904,7 +904,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 7,
         "wins": 0
       }
     },
@@ -1162,7 +1162,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 6,
+        "waiver_position": 4,
         "wins": 1
       }
     },
@@ -1420,7 +1420,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 8,
         "wins": 0
       }
     },
@@ -1678,7 +1678,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 11,
+        "waiver_position": 9,
         "wins": 0
       }
     },
@@ -1936,7 +1936,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 3,
         "wins": 1
       }
     },
@@ -2452,7 +2452,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 5,
         "wins": 1
       }
     },
@@ -2741,7 +2741,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 6,
         "wins": 1
       }
     },
@@ -2783,6 +2783,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
+        },
+        {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "position": "WR",
+          "team": "MIA",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RWR"
         },
         {
           "id": "2133",
@@ -3010,7 +3020,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 3,
+        "waiver_position": 11,
         "wins": 0
       }
     },
@@ -3342,6 +3352,16 @@
           "depth_chart_position": "SWR"
         },
         {
+          "id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
           "id": "13417",
           "name": "De'Zhaun Stribling",
           "position": "WR",
@@ -3392,16 +3412,6 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
-        },
-        {
           "id": "8408",
           "name": "Jordan Mason",
           "position": "RB",
@@ -3412,10 +3422,10 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "MIN",
-          "name": "Minnesota Vikings",
+          "id": "TB",
+          "name": "Tampa Bay Buccaneers",
           "position": "DEF",
-          "team": "MIN",
+          "team": "TB",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -3504,10 +3514,10 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "MIN",
-          "name": "Minnesota Vikings",
-          "position": "DEF",
-          "team": "MIN",
+          "id": "0",
+          "name": "Unknown player 0",
+          "position": null,
+          "team": null,
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -3537,7 +3547,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 12,
         "wins": 1
       }
     }
@@ -4458,7 +4468,98 @@
       },
       "points": 0,
       "custom_points": null,
-      "starters": [],
+      "starters": [
+        {
+          "id": "6904",
+          "name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "QB"
+        },
+        {
+          "id": "9226",
+          "name": "De'Von Achane",
+          "position": "RB",
+          "team": "MIA",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "8151",
+          "name": "Kenneth Walker",
+          "position": "RB",
+          "team": "KC",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "12526",
+          "name": "Tetairoa McMillan",
+          "position": "WR",
+          "team": "CAR",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "LWR"
+        },
+        {
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC",
+          "injury_status": "Questionable",
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "SWR"
+        },
+        {
+          "id": "12506",
+          "name": "Harold Fannin",
+          "position": "TE",
+          "team": "CLE",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "TE"
+        },
+        {
+          "id": "8228",
+          "name": "Jaylen Warren",
+          "position": "RB",
+          "team": "PIT",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "4227",
+          "name": "Harrison Butker",
+          "position": "K",
+          "team": "KC",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "K"
+        },
+        {
+          "id": "BAL",
+          "name": "Baltimore Ravens",
+          "position": "DEF",
+          "team": "BAL",
+          "injury_status": null,
+          "status": null,
+          "practice_participation": null,
+          "depth_chart_position": null
+        }
+      ],
       "players": [
         {
           "id": "11624",
@@ -7517,6 +7618,16 @@
           "depth_chart_position": "RB"
         },
         {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "position": "WR",
+          "team": "MIA",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RWR"
+        },
+        {
           "id": "2133",
           "name": "Davante Adams",
           "position": "WR",
@@ -7799,6 +7910,19 @@
         },
         {
           "player": {
+            "id": "13296",
+            "name": "Caleb Douglas",
+            "position": "WR",
+            "team": "MIA",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RWR"
+          },
+          "points": 0
+        },
+        {
+          "player": {
             "id": "SEA",
             "name": "Seattle Seahawks",
             "position": "DEF",
@@ -7822,7 +7946,98 @@
       },
       "points": 0,
       "custom_points": null,
-      "starters": [],
+      "starters": [
+        {
+          "id": "6770",
+          "name": "Joe Burrow",
+          "position": "QB",
+          "team": "CIN",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "QB"
+        },
+        {
+          "id": "4034",
+          "name": "Christian McCaffrey",
+          "position": "RB",
+          "team": "SF",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "12507",
+          "name": "Omarion Hampton",
+          "position": "RB",
+          "team": "LAC",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "6786",
+          "name": "CeeDee Lamb",
+          "position": "WR",
+          "team": "DAL",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "LWR"
+        },
+        {
+          "id": "8137",
+          "name": "George Pickens",
+          "position": "WR",
+          "team": "DAL",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RWR"
+        },
+        {
+          "id": "10236",
+          "name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "TE"
+        },
+        {
+          "id": "5892",
+          "name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
+          "id": "2747",
+          "name": "Jason Myers",
+          "position": "K",
+          "team": "SEA",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "K"
+        },
+        {
+          "id": "NE",
+          "name": "New England Patriots",
+          "position": "DEF",
+          "team": "NE",
+          "injury_status": null,
+          "status": null,
+          "practice_participation": null,
+          "depth_chart_position": null
+        }
+      ],
       "players": [
         {
           "id": "10219",
@@ -8242,10 +8457,10 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "MIN",
-          "name": "Minnesota Vikings",
-          "position": "DEF",
-          "team": "MIN",
+          "id": "0",
+          "name": "Unknown player 0",
+          "position": null,
+          "team": null,
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -8314,6 +8529,16 @@
           "depth_chart_position": "SWR"
         },
         {
+          "id": "13414",
+          "name": "Kaelon Black",
+          "position": "RB",
+          "team": "SF",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
+        },
+        {
           "id": "13417",
           "name": "De'Zhaun Stribling",
           "position": "WR",
@@ -8364,16 +8589,6 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "8136",
-          "name": "Rachaad White",
-          "position": "RB",
-          "team": "WAS",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
-        },
-        {
           "id": "8408",
           "name": "Jordan Mason",
           "position": "RB",
@@ -8384,10 +8599,10 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "MIN",
-          "name": "Minnesota Vikings",
+          "id": "TB",
+          "name": "Tampa Bay Buccaneers",
           "position": "DEF",
-          "team": "MIN",
+          "team": "TB",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -8444,19 +8659,6 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
-          },
-          "points": 0
-        },
-        {
-          "player": {
-            "id": "8136",
-            "name": "Rachaad White",
-            "position": "RB",
-            "team": "WAS",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "RB"
           },
           "points": 0
         },
@@ -8553,6 +8755,19 @@
         },
         {
           "player": {
+            "id": "13414",
+            "name": "Kaelon Black",
+            "position": "RB",
+            "team": "SF",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          },
+          "points": 0
+        },
+        {
+          "player": {
             "id": "13417",
             "name": "De'Zhaun Stribling",
             "position": "WR",
@@ -8566,10 +8781,10 @@
         },
         {
           "player": {
-            "id": "MIN",
-            "name": "Minnesota Vikings",
+            "id": "TB",
+            "name": "Tampa Bay Buccaneers",
             "position": "DEF",
-            "team": "MIN",
+            "team": "TB",
             "injury_status": null,
             "status": null,
             "practice_participation": null,
