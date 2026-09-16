@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-16T08:00:01.582Z",
+    "updated_at": "2026-09-16T09:00:01.707Z",
     "player_index_updated_at": "2026-09-15T12:16:33.114842+00:00"
   },
   "league": {
@@ -64,10 +64,11 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "shard": 101,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "last_message_id": "1405847142483992576",
+    "shard": 101,
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -117,7 +118,6 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_message_id": "1405847142483992576",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -3514,28 +3514,17 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "0",
-          "name": "Unknown player 0",
-          "position": null,
-          "team": null,
+          "id": "TB",
+          "name": "Tampa Bay Buccaneers",
+          "position": "DEF",
+          "team": "TB",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
           "depth_chart_position": null
         }
       ],
-      "reserve": [
-        {
-          "id": "13417",
-          "name": "De'Zhaun Stribling",
-          "position": "WR",
-          "team": "SF",
-          "injury_status": "Out",
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "SWR"
-        }
-      ],
+      "reserve": [],
       "settings": {
         "fpts": 167,
         "fpts_against": 132,
@@ -8457,10 +8446,10 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "0",
-          "name": "Unknown player 0",
-          "position": null,
-          "team": null,
+          "id": "TB",
+          "name": "Tampa Bay Buccaneers",
+          "position": "DEF",
+          "team": "TB",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
