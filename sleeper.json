@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-17T01:00:01.368Z",
+    "updated_at": "2026-09-17T02:00:01.239Z",
     "player_index_updated_at": "2026-09-16T12:17:12.146663+00:00"
   },
   "league": {
@@ -117,20 +117,24 @@
     "season_type": "regular",
     "shard": 101,
     "sport": "nfl",
-    "last_message_id": "1406077838800494592",
+    "last_message_id": "1406124933989388288",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
-    "draft_id": "1396978277846953984",
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789597589735,
+    "last_message_time": 1789608818102,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -147,10 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -2338,10 +2338,10 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "id": "CAR",
+          "name": "Carolina Panthers",
           "position": "DEF",
-          "team": "JAX",
+          "team": "CAR",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -2410,11 +2410,11 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "9487",
-          "name": "Parker Washington",
+          "id": "11646",
+          "name": "Jalen Coker",
           "position": "WR",
-          "team": "JAX",
-          "injury_status": null,
+          "team": "CAR",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2430,10 +2430,10 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "id": "CAR",
+          "name": "Carolina Panthers",
           "position": "DEF",
-          "team": "JAX",
+          "team": "CAR",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -3553,6 +3553,60 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1406124933905453056",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789608818082,
+      "creator_user_id": "1397706727486398464",
+      "creator": {
+        "user_id": "1397706727486398464",
+        "display_name": "bamirzada",
+        "team_name": "WinnaChickenDinna"
+      },
+      "adds": [
+        {
+          "roster_id": 8,
+          "manager": {
+            "user_id": "1397706727486398464",
+            "display_name": "bamirzada",
+            "team_name": "WinnaChickenDinna"
+          },
+          "player": {
+            "id": "CAR",
+            "name": "Carolina Panthers",
+            "position": "DEF",
+            "team": "CAR",
+            "injury_status": null,
+            "status": null,
+            "practice_participation": null,
+            "depth_chart_position": null
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 8,
+          "manager": {
+            "user_id": "1397706727486398464",
+            "display_name": "bamirzada",
+            "team_name": "WinnaChickenDinna"
+          },
+          "player": {
+            "id": "JAX",
+            "name": "Jacksonville Jaguars",
+            "position": "DEF",
+            "team": "JAX",
+            "injury_status": null,
+            "status": null,
+            "practice_participation": null,
+            "depth_chart_position": null
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1406077838716624896",
       "type": "free_agent",
@@ -7055,11 +7109,11 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "9487",
-          "name": "Parker Washington",
+          "id": "11646",
+          "name": "Jalen Coker",
           "position": "WR",
-          "team": "JAX",
-          "injury_status": null,
+          "team": "CAR",
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -7075,10 +7129,10 @@
           "depth_chart_position": "K"
         },
         {
-          "id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "id": "CAR",
+          "name": "Carolina Panthers",
           "position": "DEF",
-          "team": "JAX",
+          "team": "CAR",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -7217,10 +7271,10 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "JAX",
-          "name": "Jacksonville Jaguars",
+          "id": "CAR",
+          "name": "Carolina Panthers",
           "position": "DEF",
-          "team": "JAX",
+          "team": "CAR",
           "injury_status": null,
           "status": null,
           "practice_participation": null,
@@ -7399,10 +7453,10 @@
         },
         {
           "player": {
-            "id": "JAX",
-            "name": "Jacksonville Jaguars",
+            "id": "CAR",
+            "name": "Carolina Panthers",
             "position": "DEF",
-            "team": "JAX",
+            "team": "CAR",
             "injury_status": null,
             "status": null,
             "practice_participation": null,
