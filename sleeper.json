@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-17T06:00:01.217Z",
+    "updated_at": "2026-09-17T07:00:01.294Z",
     "player_index_updated_at": "2026-09-16T12:17:12.146663+00:00"
   },
   "league": {
@@ -64,11 +64,11 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "last_message_id": "1406165065215868928",
-    "sport": "nfl",
     "shard": 101,
     "season": "2026",
     "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1406202587841085440",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -118,18 +118,19 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
+    "draft_id": "1396978277846953984",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789618386133,
+    "last_message_time": 1789627332224,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -148,7 +149,6 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -2466,16 +2466,6 @@
       },
       "players": [
         {
-          "id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "LWR"
-        },
-        {
           "id": "11631",
           "name": "Brian Thomas",
           "position": "WR",
@@ -2484,6 +2474,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
+        },
+        {
+          "id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "SWR"
         },
         {
           "id": "13302",
@@ -2514,6 +2514,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
+        },
+        {
+          "id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
         },
         {
           "id": "6797",
@@ -2570,16 +2580,6 @@
           "name": "Chase Brown",
           "position": "RB",
           "team": "CIN",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
-        },
-        {
-          "id": "9225",
-          "name": "Tank Bigsby",
-          "position": "RB",
-          "team": "PHI",
           "injury_status": null,
           "status": "Active",
           "practice_participation": null,
@@ -3553,6 +3553,168 @@
     }
   ],
   "transactions": [
+    {
+      "transaction_id": "1406202587765620736",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789627332206,
+      "creator_user_id": "1396527293190381568",
+      "creator": {
+        "user_id": "1396527293190381568",
+        "display_name": "ToiletBowlAllStars2026",
+        "team_name": "Toilet Bowl All-Stars"
+      },
+      "adds": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "6130",
+            "name": "Devin Singletary",
+            "position": "RB",
+            "team": "NYG",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "9757",
+            "name": "Kendre Miller",
+            "position": "RB",
+            "team": "NO",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1406202255195009024",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789627252914,
+      "creator_user_id": "1396527293190381568",
+      "creator": {
+        "user_id": "1396527293190381568",
+        "display_name": "ToiletBowlAllStars2026",
+        "team_name": "Toilet Bowl All-Stars"
+      },
+      "adds": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "9757",
+            "name": "Kendre Miller",
+            "position": "RB",
+            "team": "NO",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "9225",
+            "name": "Tank Bigsby",
+            "position": "RB",
+            "team": "PHI",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1406200801579339776",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789626906345,
+      "creator_user_id": "1396527293190381568",
+      "creator": {
+        "user_id": "1396527293190381568",
+        "display_name": "ToiletBowlAllStars2026",
+        "team_name": "Toilet Bowl All-Stars"
+      },
+      "adds": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "13301",
+            "name": "Antonio Williams",
+            "position": "WR",
+            "team": "WAS",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "SWR"
+          }
+        }
+      ],
+      "drops": [
+        {
+          "roster_id": 9,
+          "manager": {
+            "user_id": "1396527293190381568",
+            "display_name": "ToiletBowlAllStars2026",
+            "team_name": "Toilet Bowl All-Stars"
+          },
+          "player": {
+            "id": "10213",
+            "name": "Tre Tucker",
+            "position": "WR",
+            "team": "LV",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "LWR"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
     {
       "transaction_id": "1406165065140350976",
       "type": "free_agent",
@@ -7640,16 +7802,6 @@
       ],
       "players": [
         {
-          "id": "10213",
-          "name": "Tre Tucker",
-          "position": "WR",
-          "team": "LV",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "LWR"
-        },
-        {
           "id": "11631",
           "name": "Brian Thomas",
           "position": "WR",
@@ -7658,6 +7810,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
+        },
+        {
+          "id": "13301",
+          "name": "Antonio Williams",
+          "position": "WR",
+          "team": "WAS",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "SWR"
         },
         {
           "id": "13302",
@@ -7688,6 +7850,16 @@
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
+        },
+        {
+          "id": "6130",
+          "name": "Devin Singletary",
+          "position": "RB",
+          "team": "NYG",
+          "injury_status": null,
+          "status": "Active",
+          "practice_participation": null,
+          "depth_chart_position": "RB"
         },
         {
           "id": "6797",
@@ -7750,16 +7922,6 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "9225",
-          "name": "Tank Bigsby",
-          "position": "RB",
-          "team": "PHI",
-          "injury_status": null,
-          "status": "Active",
-          "practice_participation": null,
-          "depth_chart_position": "RB"
-        },
-        {
           "id": "9509",
           "name": "Bijan Robinson",
           "position": "RB",
@@ -7801,6 +7963,19 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "QB"
+          },
+          "points": 0
+        },
+        {
+          "player": {
+            "id": "6130",
+            "name": "Devin Singletary",
+            "position": "RB",
+            "team": "NYG",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RB"
           },
           "points": 0
         },
@@ -7884,19 +8059,6 @@
         },
         {
           "player": {
-            "id": "9225",
-            "name": "Tank Bigsby",
-            "position": "RB",
-            "team": "PHI",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "RB"
-          },
-          "points": 0
-        },
-        {
-          "player": {
             "id": "9509",
             "name": "Bijan Robinson",
             "position": "RB",
@@ -7923,19 +8085,6 @@
         },
         {
           "player": {
-            "id": "10213",
-            "name": "Tre Tucker",
-            "position": "WR",
-            "team": "LV",
-            "injury_status": null,
-            "status": "Active",
-            "practice_participation": null,
-            "depth_chart_position": "LWR"
-          },
-          "points": 0
-        },
-        {
-          "player": {
             "id": "11631",
             "name": "Brian Thomas",
             "position": "WR",
@@ -7944,6 +8093,19 @@
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
+          },
+          "points": 0
+        },
+        {
+          "player": {
+            "id": "13301",
+            "name": "Antonio Williams",
+            "position": "WR",
+            "team": "WAS",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "SWR"
           },
           "points": 0
         },
