@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-17T04:00:01.536Z",
+    "updated_at": "2026-09-17T05:00:01.440Z",
     "player_index_updated_at": "2026-09-16T12:17:12.146663+00:00"
   },
   "league": {
@@ -64,6 +64,10 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
+    "shard": 101,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -113,28 +117,19 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 101,
-    "sport": "nfl",
-    "last_message_id": "1406124933989388288",
+    "last_message_id": "1406165065215868928",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789608818102,
+    "last_message_time": 1789618386133,
     "last_pinned_message_id": null,
-    "draft_id": "1396978277846953984",
     "last_read_id": null,
+    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -480,14 +480,14 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "9502",
-          "name": "Tank Dell",
+          "id": "9486",
+          "name": "Dontayvion Wicks",
           "position": "WR",
-          "team": "HOU",
-          "injury_status": "IR",
-          "status": "Inactive",
+          "team": "PHI",
+          "injury_status": null,
+          "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "HOU",
@@ -562,14 +562,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE",
-          "injury_status": "IR",
-          "status": "Inactive",
+          "id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
+          "injury_status": null,
+          "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RB"
         },
         {
           "id": "5189",
@@ -604,14 +604,14 @@
           "depth_chart_position": "LWR"
         },
         {
-          "id": "9502",
-          "name": "Tank Dell",
+          "id": "5859",
+          "name": "A.J. Brown",
           "position": "WR",
-          "team": "HOU",
+          "team": "NE",
           "injury_status": "IR",
           "status": "Inactive",
           "practice_participation": null,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "LWR"
         }
       ],
       "settings": {
@@ -3554,6 +3554,76 @@
   ],
   "transactions": [
     {
+      "transaction_id": "1406165065140350976",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789618386114,
+      "creator_user_id": "1396976615241605120",
+      "creator": {
+        "user_id": "1396976615241605120",
+        "display_name": "xtremeroi",
+        "team_name": "Vibe Code Junkies"
+      },
+      "adds": [
+        {
+          "roster_id": 1,
+          "manager": {
+            "user_id": "1396976615241605120",
+            "display_name": "xtremeroi",
+            "team_name": "Vibe Code Junkies"
+          },
+          "player": {
+            "id": "9486",
+            "name": "Dontayvion Wicks",
+            "position": "WR",
+            "team": "PHI",
+            "injury_status": null,
+            "status": "Active",
+            "practice_participation": null,
+            "depth_chart_position": "RWR"
+          }
+        }
+      ],
+      "drops": [],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
+      "transaction_id": "1406164977903030272",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789618365315,
+      "creator_user_id": "1396976615241605120",
+      "creator": {
+        "user_id": "1396976615241605120",
+        "display_name": "xtremeroi",
+        "team_name": "Vibe Code Junkies"
+      },
+      "adds": [],
+      "drops": [
+        {
+          "roster_id": 1,
+          "manager": {
+            "user_id": "1396976615241605120",
+            "display_name": "xtremeroi",
+            "team_name": "Vibe Code Junkies"
+          },
+          "player": {
+            "id": "9502",
+            "name": "Tank Dell",
+            "position": "WR",
+            "team": "HOU",
+            "injury_status": "IR",
+            "status": "Inactive",
+            "practice_participation": null,
+            "depth_chart_position": "SWR"
+          }
+        }
+      ],
+      "waiver_budget": [],
+      "draft_picks": []
+    },
+    {
       "transaction_id": "1406124933905453056",
       "type": "free_agent",
       "status": "complete",
@@ -4037,14 +4107,14 @@
           "depth_chart_position": "TE"
         },
         {
-          "id": "5859",
-          "name": "A.J. Brown",
-          "position": "WR",
-          "team": "NE",
-          "injury_status": "IR",
-          "status": "Inactive",
+          "id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
+          "injury_status": null,
+          "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "LWR"
+          "depth_chart_position": "RB"
         },
         {
           "id": "5189",
@@ -4209,14 +4279,14 @@
           "depth_chart_position": "RB"
         },
         {
-          "id": "9502",
-          "name": "Tank Dell",
+          "id": "9486",
+          "name": "Dontayvion Wicks",
           "position": "WR",
-          "team": "HOU",
-          "injury_status": "IR",
-          "status": "Inactive",
+          "team": "PHI",
+          "injury_status": null,
+          "status": "Active",
           "practice_participation": null,
-          "depth_chart_position": "SWR"
+          "depth_chart_position": "RWR"
         },
         {
           "id": "HOU",
@@ -4336,14 +4406,14 @@
         },
         {
           "player": {
-            "id": "9502",
-            "name": "Tank Dell",
+            "id": "9486",
+            "name": "Dontayvion Wicks",
             "position": "WR",
-            "team": "HOU",
-            "injury_status": "IR",
-            "status": "Inactive",
+            "team": "PHI",
+            "injury_status": null,
+            "status": "Active",
             "practice_participation": null,
-            "depth_chart_position": "SWR"
+            "depth_chart_position": "RWR"
           },
           "points": 0
         },
