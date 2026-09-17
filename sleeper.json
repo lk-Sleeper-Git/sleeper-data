@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-17T08:00:01.210Z",
+    "updated_at": "2026-09-17T09:00:01.244Z",
     "player_index_updated_at": "2026-09-16T12:17:12.146663+00:00"
   },
   "league": {
@@ -126,8 +126,8 @@
     "last_message_text_map": null,
     "last_message_time": 1789627332224,
     "last_pinned_message_id": null,
-    "draft_id": "1396978277846953984",
     "last_read_id": null,
+    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
     "bracket_id": null,
