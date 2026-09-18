@@ -4,7 +4,7 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-18T03:00:01.258Z",
+    "updated_at": "2026-09-18T04:00:01.437Z",
     "player_index_updated_at": "2026-09-17T12:17:02.484310+00:00"
   },
   "league": {
@@ -64,9 +64,7 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
-    "shard": 101,
-    "season": "2026",
-    "season_type": "regular",
+    "last_message_id": "1406202587841085440",
     "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
@@ -117,24 +115,21 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "last_message_id": "1406202587841085440",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 101,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
-    "draft_id": "1396978277846953984",
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1789627332224,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +146,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "users": [
@@ -4690,7 +4690,7 @@
         "display_name": "SkylarXROI",
         "team_name": "Out of Budget"
       },
-      "points": 21.1,
+      "points": 23.2,
       "custom_points": null,
       "starters": [
         {
@@ -4987,7 +4987,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 21.2
+          "points": 23.3
         },
         {
           "player": {
@@ -5571,7 +5571,7 @@
         "display_name": "OliMaitland",
         "team_name": "Jamal Adams Avengers"
       },
-      "points": 34.76,
+      "points": 44.88,
       "custom_points": null,
       "starters": [
         {
@@ -5819,7 +5819,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 28.66
+          "points": 37.78
         },
         {
           "player": {
@@ -5871,7 +5871,7 @@
             "practice_participation": null,
             "depth_chart_position": "RWR"
           },
-          "points": 2.6
+          "points": 5.3
         },
         {
           "player": {
@@ -5936,7 +5936,7 @@
             "practice_participation": null,
             "depth_chart_position": "K"
           },
-          "points": 6.1
+          "points": 7.1
         },
         {
           "player": {
@@ -6858,7 +6858,7 @@
         "display_name": "Axmen",
         "team_name": "Full Axeleration"
       },
-      "points": 12.4,
+      "points": 20.9,
       "custom_points": null,
       "starters": [
         {
@@ -7171,7 +7171,7 @@
             "practice_participation": null,
             "depth_chart_position": "SWR"
           },
-          "points": 4.2
+          "points": 6.8
         },
         {
           "player": {
@@ -7184,7 +7184,7 @@
             "practice_participation": null,
             "depth_chart_position": "RB"
           },
-          "points": 12.4
+          "points": 20.9
         },
         {
           "player": {
@@ -8168,7 +8168,7 @@
         "display_name": "jduran2089",
         "team_name": null
       },
-      "points": 45.64,
+      "points": 46.82,
       "custom_points": null,
       "starters": [
         {
@@ -8478,7 +8478,7 @@
             "practice_participation": null,
             "depth_chart_position": "QB"
           },
-          "points": 45.64
+          "points": 46.82
         },
         {
           "player": {
@@ -9049,7 +9049,7 @@
         "display_name": "supplementkings",
         "team_name": null
       },
-      "points": 25.3,
+      "points": 35.2,
       "custom_points": null,
       "starters": [
         {
@@ -9333,7 +9333,7 @@
             "practice_participation": null,
             "depth_chart_position": "SWR"
           },
-          "points": 25.3
+          "points": 35.2
         },
         {
           "player": {
