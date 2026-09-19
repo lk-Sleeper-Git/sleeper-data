@@ -4,8 +4,8 @@
     "week": 2,
     "season": "2026",
     "season_type": "regular",
-    "updated_at": "2026-09-19T12:00:01.241Z",
-    "player_index_updated_at": "2026-09-18T12:16:11.165090+00:00"
+    "updated_at": "2026-09-19T13:00:01.195Z",
+    "player_index_updated_at": "2026-09-19T12:15:33.531414+00:00"
   },
   "league": {
     "name": "XTREME FANTASY Season III",
@@ -64,6 +64,10 @@
     },
     "avatar": "a423787e4730d98579817ae9c23c351d",
     "company_id": null,
+    "shard": 101,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "fgm_40_49": 3,
@@ -113,11 +117,8 @@
       "pts_allow_7_13": 4,
       "st_ff": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 101,
-    "sport": "nfl",
     "last_message_id": "1406202587841085440",
+    "draft_id": "1396978277846953984",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -127,7 +128,6 @@
     "last_message_time": 1789627332224,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1396978277846953984",
     "league_id": "1396978277226184704",
     "previous_league_id": null,
     "bracket_id": null,
@@ -364,7 +364,7 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -444,7 +444,7 @@
           "name": "D'Andre Swift",
           "position": "RB",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -526,7 +526,7 @@
           "name": "D'Andre Swift",
           "position": "RB",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -566,7 +566,7 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -743,7 +743,7 @@
           "name": "George Kittle",
           "position": "TE",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -845,7 +845,7 @@
           "name": "George Kittle",
           "position": "TE",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -1558,7 +1558,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -1620,7 +1620,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -1786,7 +1786,7 @@
           "name": "Nico Collins",
           "position": "WR",
           "team": "HOU",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -1816,7 +1816,7 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -1878,7 +1878,7 @@
           "name": "Nico Collins",
           "position": "WR",
           "team": "HOU",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -2222,7 +2222,7 @@
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2272,7 +2272,7 @@
           "name": "Kyler Murray",
           "position": "QB",
           "team": "MIN",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
@@ -2424,7 +2424,7 @@
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2480,7 +2480,7 @@
           "name": "Brian Thomas",
           "position": "WR",
           "team": "JAX",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -2560,7 +2560,7 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -2610,7 +2610,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -2682,7 +2682,7 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -2759,7 +2759,7 @@
           "name": "Brock Bowers",
           "position": "TE",
           "team": "LV",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -2859,7 +2859,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -2951,7 +2951,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -3003,7 +3003,7 @@
           "name": "Brock Bowers",
           "position": "TE",
           "team": "LV",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -4243,7 +4243,7 @@
           "name": "D'Andre Swift",
           "position": "RB",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -4283,7 +4283,7 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -4335,7 +4335,7 @@
           "name": "Kyle Monangai",
           "position": "RB",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -4415,7 +4415,7 @@
           "name": "D'Andre Swift",
           "position": "RB",
           "team": "CHI",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RB"
@@ -4530,7 +4530,7 @@
             "name": "D'Andre Swift",
             "position": "RB",
             "team": "CHI",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -4621,7 +4621,7 @@
             "name": "Kyle Monangai",
             "position": "RB",
             "team": "CHI",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RB"
@@ -4748,7 +4748,7 @@
           "name": "George Kittle",
           "position": "TE",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -4890,7 +4890,7 @@
           "name": "George Kittle",
           "position": "TE",
           "team": "SF",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -4956,7 +4956,7 @@
             "name": "George Kittle",
             "position": "TE",
             "team": "SF",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
@@ -6038,7 +6038,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -6210,7 +6210,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "team": "LAR",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -6321,7 +6321,7 @@
             "name": "Puka Nacua",
             "position": "WR",
             "team": "LAR",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RWR"
@@ -6467,7 +6467,7 @@
           "name": "Nico Collins",
           "position": "WR",
           "team": "HOU",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -6609,7 +6609,7 @@
           "name": "Nico Collins",
           "position": "WR",
           "team": "HOU",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -6639,7 +6639,7 @@
           "name": "Alec Pierce",
           "position": "WR",
           "team": "IND",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -6711,7 +6711,7 @@
             "name": "Nico Collins",
             "position": "WR",
             "team": "HOU",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
@@ -6750,7 +6750,7 @@
             "name": "Alec Pierce",
             "position": "WR",
             "team": "IND",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
@@ -7355,7 +7355,7 @@
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -7387,7 +7387,7 @@
           "name": "Jalen Coker",
           "position": "WR",
           "team": "CAR",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -7437,7 +7437,7 @@
           "name": "Kyler Murray",
           "position": "QB",
           "team": "MIN",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "QB"
@@ -7530,7 +7530,7 @@
             "name": "Kyler Murray",
             "position": "QB",
             "team": "MIN",
-            "injury_status": "Questionable",
+            "injury_status": "Out",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "QB"
@@ -7634,7 +7634,7 @@
             "name": "Jalen Coker",
             "position": "WR",
             "team": "CAR",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
@@ -7774,7 +7774,7 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -7816,7 +7816,7 @@
           "name": "Brian Thomas",
           "position": "WR",
           "team": "JAX",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "LWR"
@@ -7896,7 +7896,7 @@
           "name": "Juwan Johnson",
           "position": "TE",
           "team": "NO",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -7946,7 +7946,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "SWR"
@@ -8021,7 +8021,7 @@
             "name": "Juwan Johnson",
             "position": "TE",
             "team": "NO",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
@@ -8086,7 +8086,7 @@
             "name": "Zay Flowers",
             "position": "WR",
             "team": "BAL",
-            "injury_status": "Questionable",
+            "injury_status": "Doubtful",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "SWR"
@@ -8099,7 +8099,7 @@
             "name": "Brian Thomas",
             "position": "WR",
             "team": "JAX",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "LWR"
@@ -8216,7 +8216,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -8268,7 +8268,7 @@
           "name": "Brock Bowers",
           "position": "TE",
           "team": "LV",
-          "injury_status": "Questionable",
+          "injury_status": "Doubtful",
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "TE"
@@ -8368,7 +8368,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "status": "Active",
           "practice_participation": null,
           "depth_chart_position": "RWR"
@@ -8499,7 +8499,7 @@
             "name": "Jakobi Meyers",
             "position": "WR",
             "team": "JAX",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "RWR"
@@ -8551,7 +8551,7 @@
             "name": "Brock Bowers",
             "position": "TE",
             "team": "LV",
-            "injury_status": "Questionable",
+            "injury_status": "Doubtful",
             "status": "Active",
             "practice_participation": null,
             "depth_chart_position": "TE"
